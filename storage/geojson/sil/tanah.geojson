@@ -1,0 +1,1365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 1,
+        "alamat": "Jl. Kesehatan No.3",
+        "nama_lokasi": "Puskesmas Dinkes ",
+        "kelurahan_id": 42,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 2,
+        "alamat": "jl.sudirman",
+        "nama_lokasi": "SPBU Air Mancur ",
+        "kelurahan_id": 27,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 3,
+        "alamat": "Jl. Dahlia",
+        "nama_lokasi": "Perumahan Cimanggu ",
+        "kelurahan_id": 46,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 4,
+        "alamat": "Jl. Dr. Semeru 120",
+        "nama_lokasi": "RS Karya Bakti ",
+        "kelurahan_id": 53,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 5,
+        "alamat": "Jl. Dr. Sumeru",
+        "nama_lokasi": "Rumah Sakit Marzuki Mahdi ",
+        "kelurahan_id": 53,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7931389,
+          -6.63722222
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 6,
+        "alamat": "Jl. Dr. Semeru",
+        "nama_lokasi": "Bogor Golf Court ",
+        "kelurahan_id": 53,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 7,
+        "alamat": "Jl. Raya Pajajaran",
+        "nama_lokasi": "RS PMI Bogor",
+        "kelurahan_id": 26,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 8,
+        "alamat": "Jl. Raya Tajur",
+        "nama_lokasi": "PT. Nutrifood ",
+        "kelurahan_id": 40,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 9,
+        "alamat": "Jl Raya Tajur, No. 216",
+        "nama_lokasi": "PT Enseval ",
+        "kelurahan_id": 14,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 10,
+        "alamat": " Jl. Raya Tajur no.22",
+        "nama_lokasi": "PT. Chuang's Cutlery",
+        "kelurahan_id": 16,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 12,
+        "alamat": "jl. Sudirman",
+        "nama_lokasi": "SPBU Total Air Mancur",
+        "kelurahan_id": 27,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.778432,
+          -6.594299
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 13,
+        "alamat": "Jl. Gn. Batu No.253",
+        "nama_lokasi": "Kel. Gunung Batu",
+        "kelurahan_id": 57,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.779262,
+          -6.599849
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 14,
+        "alamat": "Jl. Re. Abdullah No.16",
+        "nama_lokasi": " Kel. Pasir Mulya",
+        "kelurahan_id": 56,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.762623,
+          -6.578285
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 15,
+        "alamat": "Jl. Sindangbarang Pilar 1",
+        "nama_lokasi": "Kel. Sindang Barang",
+        "kelurahan_id": 68,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 16,
+        "alamat": "jl. Cifor n0 340",
+        "nama_lokasi": " Kel. Bubulak (Arah Cifor)",
+        "kelurahan_id": 58,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 17,
+        "alamat": "jl.tambora no.01",
+        "nama_lokasi": "Kel. Situ Gede",
+        "kelurahan_id": 59,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.741025,
+          -6.571928
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 18,
+        "alamat": "jl.pemuda no 25",
+        "nama_lokasi": " Kel. Marga Jaya ",
+        "kelurahan_id": 42,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.741689,
+          -6.56003
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 19,
+        "alamat": "Jl. Raya Balumbang Jaya",
+        "nama_lokasi": "Kel. Balumbang Jaya",
+        "kelurahan_id": 61,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.769591,
+          -6.573048
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 20,
+        "alamat": "Jl. Brigjen Saptadji Hadiprawira Cilendek Bogor",
+        "nama_lokasi": "Kel. Cilendek Barat",
+        "kelurahan_id": 64,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793577,
+          -6.588258
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 21,
+        "alamat": "jl sawojajar no.3",
+        "nama_lokasi": "R.S.B Sawojajar",
+        "kelurahan_id": 25,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797384,
+          -6.59118
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 22,
+        "alamat": "jl jendral sudirman no. 8",
+        "nama_lokasi": "R.S Salak",
+        "kelurahan_id": 27,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807784,
+          -6.579144
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 23,
+        "alamat": "jl.pajajaran no.219",
+        "nama_lokasi": "R.S Azra",
+        "kelurahan_id": 18,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806776,
+          -6.580018
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 24,
+        "alamat": "jl.surya kencana ",
+        "nama_lokasi": "Setia Jaya",
+        "kelurahan_id": 37,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.777635,
+          -6.556802
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 25,
+        "alamat": "Jl. Taman Cimanggu No.3,",
+        "nama_lokasi": "Tons 2000",
+        "kelurahan_id": 42,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.773976,
+          -6.557495
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 26,
+        "alamat": "jl.kh abdullah bin nuh",
+        "nama_lokasi": "R.S.I.A Hermina",
+        "kelurahan_id": 46,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.772313,
+          -6.556411
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 27,
+        "alamat": "jl.rasamala no.20",
+        "nama_lokasi": "Graha S.I.G",
+        "kelurahan_id": 52,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.774352,
+          -6.541543
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 28,
+        "alamat": "JL Raya Pabuaran, KM. 04 No. 03.",
+        "nama_lokasi": "Bengkel Hanggar",
+        "kelurahan_id": 6,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.791708,
+          -6.558863
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 29,
+        "alamat": "komplek budi agung, jl perdana ",
+        "nama_lokasi": "R.S Islam Bogor",
+        "kelurahan_id": 48,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 30,
+        "alamat": "JL Raya Bogor, KM 52, Ciparigi",
+        "nama_lokasi": "PT. Tanah Sumber Makmur (TSM)",
+        "kelurahan_id": 24,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80563,
+          -6.548759
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 31,
+        "alamat": "JL. Pangkalan III Km",
+        "nama_lokasi": "PT. Guna Sentraputra Sejahtera",
+        "kelurahan_id": 23,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796739,
+          -6.572729
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 32,
+        "alamat": "Jl. Pemuda",
+        "nama_lokasi": "R.S.B Anugrah",
+        "kelurahan_id": 42,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797319,
+          -6.571694
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 33,
+        "alamat": "Jalan Pemuda No. 29 ",
+        "nama_lokasi": "Balai Pengujian Mutu Produk Pe",
+        "kelurahan_id": 42,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.798974,
+          -6.570603
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 34,
+        "alamat": "Jl. Merak No.3,Tanah Sereal",
+        "nama_lokasi": "R.S Pasurti",
+        "kelurahan_id": 42,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.777397,
+          -6.581226
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 35,
+        "alamat": "Jl. Raya Dramaga KM. 7,Dramaga",
+        "nama_lokasi": "R.S Karya Bhakti",
+        "kelurahan_id": 32,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.794691,
+          -6.600015
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 36,
+        "alamat": "Jalan Ir. H. Djuanda No. 30",
+        "nama_lokasi": "Kimia Farma",
+        "kelurahan_id": 32,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79754,
+          -6.602995
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 37,
+        "alamat": "Jalan IR. Haji Juanda No.11",
+        "nama_lokasi": "Balai Besar Industri Agro (BBI",
+        "kelurahan_id": 32,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.824514,
+          -6.622852
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 38,
+        "alamat": "Jalan Raya Parung",
+        "nama_lokasi": "Kel. Katulampa",
+        "kelurahan_id": 39,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.824649,
+          -6.589288
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 39,
+        "alamat": "Jl. Tumenggung Wiradiredja",
+        "nama_lokasi": "Kel. Cimahpar",
+        "kelurahan_id": 22,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810913,
+          -6.608063
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 40,
+        "alamat": "Jl. Baranangsiang No.5",
+        "nama_lokasi": "R.S Bogor Medica Center (BMC)",
+        "kelurahan_id": 36,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.795518,
+          -6.608441
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 41,
+        "alamat": "JL. Mesjid 2, No. 4",
+        "nama_lokasi": "PT. Pastri",
+        "kelurahan_id": 1,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807595,
+          -6.601193
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 42,
+        "alamat": "Jalan Raya Pajajaran,Tegalleg",
+        "nama_lokasi": "Botani Square",
+        "kelurahan_id": 26,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806109,
+          -6.599809
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 43,
+        "alamat": "Jl. Pajajaran",
+        "nama_lokasi": "Laboratorium IPB Terpadu",
+        "kelurahan_id": 36,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.814269,
+          -6.577623
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 44,
+        "alamat": "Tegal Gundil",
+        "nama_lokasi": "IPAL - IPLT Gundil",
+        "kelurahan_id": 18,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.821774,
+          -6.565579
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 45,
+        "alamat": "Jl. Pangeran Sogiri",
+        "nama_lokasi": "Akademi Kimia Analisis",
+        "kelurahan_id": 42,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.823313,
+          -6.559388
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 46,
+        "alamat": "Jl. Pangeran Sogiri No. 374",
+        "nama_lokasi": "Kel. Tanah Baru",
+        "kelurahan_id": 20,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810515,
+          -6.618716
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 47,
+        "alamat": "Jl. Batutulis Gg. Nv Sidik",
+        "nama_lokasi": "PT. Spindo Perdana ",
+        "kelurahan_id": 3,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.842139,
+          -6.654234
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 48,
+        "alamat": "jl.Harjasari",
+        "nama_lokasi": " Kel. Harja Sari",
+        "kelurahan_id": 13,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.831593,
+          -6.636945
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 49,
+        "alamat": "jl raya tajur no.01",
+        "nama_lokasi": "PT. Unitex",
+        "kelurahan_id": 41,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.835142,
+          -6.643477
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 50,
+        "alamat": "Jl. Raya Tajur No 612/9",
+        "nama_lokasi": "Kel. Muara Sari",
+        "kelurahan_id": 14,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826491,
+          -6.634491
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 51,
+        "alamat": "Jalan Raya Tajur KM. 6,Pakuan",
+        "nama_lokasi": "Seameo Biotrop",
+        "kelurahan_id": 0,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.820018,
+          -6.625055
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 52,
+        "alamat": "jl raya tajur no.24",
+        "nama_lokasi": "PT. Coats Rejo",
+        "kelurahan_id": 16,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812849,
+          -6.62013
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 53,
+        "alamat": "jl. Lw gintung",
+        "nama_lokasi": "PT. Boehringer Ingelheim",
+        "kelurahan_id": 6,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826599,
+          -6.650257
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 54,
+        "alamat": "Jalan Margabhakti No.25 Bogor",
+        "nama_lokasi": "Kel. Kerta Maya",
+        "kelurahan_id": 12,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 55,
+        "alamat": "Jalan Rancamaya No.24 Bogor",
+        "nama_lokasi": "Kel. Rancamaya",
+        "kelurahan_id": 0,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830557,
+          -6.666587
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 56,
+        "alamat": "Jl. Bojong Pesantren Rt 03/ 02",
+        "nama_lokasi": "Kel. Bojong Kerta",
+        "kelurahan_id": 0,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.815522,
+          -6.639131
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 57,
+        "alamat": "Jl. Sukamanah No.28",
+        "nama_lokasi": "Kel. Genteng",
+        "kelurahan_id": 15,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807049,
+          -6.628592
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 58,
+        "alamat": "Jl. Ranggamekar No.1",
+        "nama_lokasi": "Kel. Rangga Mekar",
+        "kelurahan_id": 7,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797002,
+          -6.619369
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 59,
+        "alamat": "jl.dreded pahlawan",
+        "nama_lokasi": "Perumahan BNR",
+        "kelurahan_id": 8,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.773453,
+          -6.544429
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 60,
+        "alamat": "jl. Taman Sari Persada No.1",
+        "nama_lokasi": "Kel. Cibadak",
+        "kelurahan_id": 52,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797352,
+          -6.564156
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 61,
+        "alamat": "Jl. Raya Cimanggu No.4,Tanah Sereal",
+        "nama_lokasi": "Kel. Kedung Badak",
+        "kelurahan_id": 44,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.777489,
+          -6.531835
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 62,
+        "alamat": "JL Kyai Haji Ahmad Sya'yani, No. 1, Tanah Sereal",
+        "nama_lokasi": "Kel. Mekar Wangi",
+        "kelurahan_id": 49,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.771545,
+          -6.519792
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 63,
+        "alamat": "Jl. Pool Binamarga, Atang Sanjaya",
+        "nama_lokasi": "Kel. Kayu Manis",
+        "kelurahan_id": 51,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.786486,
+          -6.559243
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 64,
+        "alamat": "jl. Cimanggu wates no 84",
+        "nama_lokasi": "Kel. Suka Damai",
+        "kelurahan_id": 48,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.780563,
+          -6.561971
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 65,
+        "alamat": "jl.taman cimanggu.no 02",
+        "nama_lokasi": "Kel. Kedung Waringin",
+        "kelurahan_id": 46,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.798979,
+          -6.554082
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 66,
+        "alamat": "jl.h ahmad yunus no.4",
+        "nama_lokasi": "Kel. Suka Resmi",
+        "kelurahan_id": 47,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.763681,
+          -6.561644
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 67,
+        "alamat": "jl.curug no.3 bojongsari",
+        "nama_lokasi": "Kel. Curug",
+        "kelurahan_id": 65,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.795983,
+          -6.6043
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 68,
+        "alamat": "Jl. Ir. H. Djuanda No. 68,Jl. Ir. H. Juanda",
+        "nama_lokasi": "Bogor Trade Mall (BTM) ",
+        "kelurahan_id": 32,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.840054,
+          -6.640332
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 69,
+        "alamat": "jl muara tegal",
+        "nama_lokasi": "Kel. Sindang Rasa ",
+        "kelurahan_id": 41,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.785149,
+          -6.60334
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 70,
+        "alamat": "jl.raya cibalagung no.29",
+        "nama_lokasi": "Kel. Pasir Kuda",
+        "kelurahan_id": 54,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846605,
+          -6.655211
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 71,
+        "alamat": "jl.raya wangun no.332",
+        "nama_lokasi": "Kel. Sindang Sari",
+        "kelurahan_id": 41,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.800775,
+          -6.611414
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 72,
+        "alamat": "jl.pahlawan no.91",
+        "nama_lokasi": "R.S.I.A Melania",
+        "kelurahan_id": 2,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809301,
+          -6.628279
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 73,
+        "alamat": "jl.r.e.soemanta diretja 03",
+        "nama_lokasi": "Kel. Pamoyanan",
+        "kelurahan_id": 4,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.778107,
+          -6.575089
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 74,
+        "alamat": "jl.masjid no.56",
+        "nama_lokasi": "Kel. Cilendek Timur",
+        "kelurahan_id": 63,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.786353,
+          -6.531235
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 75,
+        "alamat": "",
+        "nama_lokasi": "Kelurahan Kencana",
+        "kelurahan_id": 50,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.780925,
+          -6.646501
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 76,
+        "alamat": "",
+        "nama_lokasi": "Kelurahan Mulya Harja",
+        "kelurahan_id": 8,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.765308,
+          -6.561553
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 77,
+        "alamat": "",
+        "nama_lokasi": "Kelurahan Curug Mekar",
+        "kelurahan_id": 67,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.788446,
+          -6.563941
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 78,
+        "alamat": "",
+        "nama_lokasi": "Kelurahan Kedung Jaya",
+        "kelurahan_id": 45,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.771126,
+          -6.583068
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 79,
+        "alamat": "",
+        "nama_lokasi": "Kelurahan Loji",
+        "kelurahan_id": 66,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.786151,
+          -6.61978
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 80,
+        "alamat": "",
+        "nama_lokasi": "Kelurahan Cikaret",
+        "kelurahan_id": 9,
+        "icon_map": "icon-tanah.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813305,
+          -6.635213
+        ]
+      },
+      "properties": {
+        "lokasiuji_tanah_id": 81,
+        "alamat": "",
+        "nama_lokasi": "Kelurahan Cipaku",
+        "kelurahan_id": 5,
+        "icon_map": "icon-tanah.png"
+      }
+    }
+  ]
+}

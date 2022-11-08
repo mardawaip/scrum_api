@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.740356,
+          -6.572166
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 1,
+        "nama_lokasi": "Batas Kota arah Bogor Barat di Darmaga",
+        "kelurahan_id": 60,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846814,
+          -6.655247
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 2,
+        "nama_lokasi": "Batas Kota arah Bogor Timur di Ciawi",
+        "kelurahan_id": 40,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.823992,
+          -6.547151
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 3,
+        "nama_lokasi": "Batas Kota arah Bogor Utara di Ciluar",
+        "kelurahan_id": 21,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846814,
+          -6.655247
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 4,
+        "nama_lokasi": "Batas Kota arah Tanah Sareal di Bantar Kemang",
+        "kelurahan_id": 51,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799944,
+          -6.603361
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 5,
+        "nama_lokasi": "Plaza BTM di Jalan Klenteng",
+        "kelurahan_id": 32,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793943,
+          -6.591952
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 6,
+        "nama_lokasi": "Pertigaan JalanPengadilan SD.Peng.V",
+        "kelurahan_id": 25,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805335,
+          -6.601287
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 7,
+        "nama_lokasi": "Pertigaan Tugu Kujang Dpn Kmps IPB",
+        "kelurahan_id": 26,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.791665,
+          -6.607105
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 8,
+        "nama_lokasi": "Pertigaan Pancasan Pancasan Tonggoh",
+        "kelurahan_id": 55,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.756267,
+          -6.563935
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 9,
+        "nama_lokasi": "Pertigaan Bulbulak Sindang Barang",
+        "kelurahan_id": 58,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.808676,
+          -6.568657
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 10,
+        "nama_lokasi": "Pertigaan Wr Jambu Jl. Jambu Dua",
+        "kelurahan_id": 17,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.786079,
+          -6.59025
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 11,
+        "nama_lokasi": "Pertigaan Pasar Mawar di Jalan Dr. Sumeru",
+        "kelurahan_id": 35,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.788332,
+          -6.595567
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 12,
+        "nama_lokasi": " Pertigaan Jembatan Merahd di jembatan Merah",
+        "kelurahan_id": 29,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.789758,
+          -6.59593
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 13,
+        "nama_lokasi": "Pertigaan Taman Topi Jl Kapten Muslihat",
+        "kelurahan_id": 30,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805335,
+          -6.601287
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 14,
+        "nama_lokasi": "Pertigaan Empang Batutulis Jl. Empang",
+        "kelurahan_id": 1,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805335,
+          -6.601287
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 15,
+        "nama_lokasi": "Jl Pajajaran di depan Supermarket Hero",
+        "kelurahan_id": 36,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805335,
+          -6.601287
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 16,
+        "nama_lokasi": "Bundaran Plaza Ekalokasari Jl.  Raya Tajur",
+        "kelurahan_id": 37,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805335,
+          -6.601287
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 17,
+        "nama_lokasi": "Pertigaan Gd. Dalem Jl. Surya Kencana",
+        "kelurahan_id": 37,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805335,
+          -6.601287
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 18,
+        "nama_lokasi": "Putaran BTM Jl.Ir.H. Juanda",
+        "kelurahan_id": 32,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.779546,
+          -6.601153
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 19,
+        "nama_lokasi": "Pertigaan Ciapus Pasir Kuda Gn. Batu",
+        "kelurahan_id": 54,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.779435,
+          -6.596129
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 20,
+        "nama_lokasi": "Pertigaan Gunung Batu",
+        "kelurahan_id": 57,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.750509,
+          -6.55688
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 21,
+        "nama_lokasi": "Perempatan Cifor Jl.H.M Syarifudin",
+        "kelurahan_id": 58,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.763225,
+          -6.564171
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 22,
+        "nama_lokasi": "Perempatan Yasmin Jl. Rd. Abdlh Bin Nuh",
+        "kelurahan_id": 64,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810687,
+          -6.563515
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 23,
+        "nama_lokasi": "Patung Narkoba Pos Polisi Jl. Baru",
+        "kelurahan_id": 19,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812952,
+          -6.560167
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 24,
+        "nama_lokasi": "Pertigaan Talang Jl. Pemda Kedung Halang",
+        "kelurahan_id": 23,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.804689,
+          -6.592297
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 25,
+        "nama_lokasi": "Perempatan Hotel Pangrango 2 Mc. Donald",
+        "kelurahan_id": 28,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806869,
+          -6.603961
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 26,
+        "nama_lokasi": "Putaran Jagorawi Sebelum Tol Jagorawi",
+        "kelurahan_id": 36,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793535,
+          -6.633305
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 27,
+        "nama_lokasi": "Pertigaan Junggle Park, Jl Bondongan",
+        "kelurahan_id": 8,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793229,
+          -6.582006
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 28,
+        "nama_lokasi": "Pertigaan Pndk Rumput Bulbulak Jl RE Martadinata",
+        "kelurahan_id": 30,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806872,
+          -6.618817
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 29,
+        "nama_lokasi": "Pertigaan NV Sidik, Batu Tulis, Jl Pahlawan",
+        "kelurahan_id": 1,
+        "icon_map": "icon-ambien.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809016,
+          -6.6248
+        ]
+      },
+      "properties": {
+        "lokasiuji_ambien_id": 30,
+        "nama_lokasi": "Pertigaan Cipaku, Sblm Situs Bt Tulis Lwg Gintung",
+        "kelurahan_id": 6,
+        "icon_map": "icon-ambien.png"
+      }
+    }
+  ]
+}

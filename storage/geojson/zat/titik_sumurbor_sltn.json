@@ -1,0 +1,7 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[703114.0000000009,9264472]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. NUTRIFOOD IND","LAYER":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[702982.9999999993,9265144]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT.SSK/PT. ENSEVAL PUTRA MEGATRADING","LAYER":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[697591.9999999997,9265561.999999998]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. GRAHA ANDRASENTRA PROPERTINDO","LAYER":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[698468.9999999998,9266213]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. GRAHA ANDRASETRA PROPERTINDO","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[701251.9999999991,9267225]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. COATS REJO IND","LAYER":"Unknown Point Feature"}}
+]}

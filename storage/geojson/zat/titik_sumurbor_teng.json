@@ -1,0 +1,14 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[698822.0000000003,9269659.000000002]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"BOGOR TRADE MALL","LAYER":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[698416.999999999,9269806]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"HOTEL ROYAL","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[699722.0000000003,9269913]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. BOGOR ANGGANA CENDEKIA","LAYER":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[698405.0000000005,9269953.000000002]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"BNI 46","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[698405.0000000005,9270131.999999998]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"BCA BANK","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[699696.0000000008,9270344]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PMI","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[698022.9999999991,9270704]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PERUMKA DIPO TRAKSI BGR","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[698262.0000000002,9270758]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"HOTEL SALAK","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[699510.9999999993,9270888]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PANGRANGO II","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[699369.0000000005,9271160.000000002]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PANGRANGO I","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[699435.0000000009,9271184]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"HOTEL NEW MIRAH","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[699576.0000000006,9271537]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. TELKOM","LAYER":"Unknown Point Feature"}}
+]}

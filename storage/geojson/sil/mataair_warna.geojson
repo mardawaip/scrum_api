@@ -1,0 +1,828 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80107,
+          -6.58955
+        ]
+      },
+      "properties": {
+        "mata_air_id": 1,
+        "tahun_pengamatan": "2002-01-01",
+        "kelurahan_id": 27,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Sempur, Kecamatan Bogor Tengah",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83867,
+          -6.65051
+        ]
+      },
+      "properties": {
+        "mata_air_id": 2,
+        "tahun_pengamatan": "2002-01-01",
+        "kelurahan_id": 13,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Harjasari, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81498,
+          -6.65222
+        ]
+      },
+      "properties": {
+        "mata_air_id": 3,
+        "tahun_pengamatan": "2002-01-01",
+        "kelurahan_id": 12,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Kertamaya, Kecamtan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80554,
+          -6.62306
+        ]
+      },
+      "properties": {
+        "mata_air_id": 4,
+        "tahun_pengamatan": "2002-01-01",
+        "kelurahan_id": 3,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Batu Tulis, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77498,
+          -6.59714
+        ]
+      },
+      "properties": {
+        "mata_air_id": 5,
+        "tahun_pengamatan": "2003-01-01",
+        "kelurahan_id": 29,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Panaragan, Kecamatan Bogor Tengah",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8185,
+          -6.62626
+        ]
+      },
+      "properties": {
+        "mata_air_id": 6,
+        "tahun_pengamatan": "2005-01-01",
+        "kelurahan_id": 6,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Lawang Gintung, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81223,
+          -6.64045
+        ]
+      },
+      "properties": {
+        "mata_air_id": 7,
+        "tahun_pengamatan": "2005-01-01",
+        "kelurahan_id": 15,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Genteng, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80056,
+          -6.58043
+        ]
+      },
+      "properties": {
+        "mata_air_id": 8,
+        "tahun_pengamatan": "2006-01-01",
+        "kelurahan_id": 17,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Bantar Jati, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79369,
+          -6.64881
+        ]
+      },
+      "properties": {
+        "mata_air_id": 9,
+        "tahun_pengamatan": "2006-01-01",
+        "kelurahan_id": 4,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Pamoyanan, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81515,
+          -6.65427
+        ]
+      },
+      "properties": {
+        "mata_air_id": 10,
+        "tahun_pengamatan": "2006-01-01",
+        "kelurahan_id": 12,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Kertamaya, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82433,
+          -6.54291
+        ]
+      },
+      "properties": {
+        "mata_air_id": 11,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 24,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Ciparigi, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81678,
+          -6.61053
+        ]
+      },
+      "properties": {
+        "mata_air_id": 12,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 39,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Katulampa, Kecamatan Bogor Timur",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83292,
+          -6.63432
+        ]
+      },
+      "properties": {
+        "mata_air_id": 13,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 40,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Sindangsari, Kecamatan Bogor Timur",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78803,
+          -6.64284
+        ]
+      },
+      "properties": {
+        "mata_air_id": 14,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 8,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Mulyaharja, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7688,
+          -6.59339
+        ]
+      },
+      "properties": {
+        "mata_air_id": 15,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 66,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Loji, Kecamatan Bogor Barat",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77914,
+          -6.59348
+        ]
+      },
+      "properties": {
+        "mata_air_id": 16,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 57,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Gunung Batu, Kecamatan Bogor Barat",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77584,
+          -6.60891
+        ]
+      },
+      "properties": {
+        "mata_air_id": 17,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 56,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Pasir Mulya, Kecamatan Bogor Barat",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77798,
+          -6.60963
+        ]
+      },
+      "properties": {
+        "mata_air_id": 18,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 54,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Pasir Kuda, Kecamatan Bogor Barat",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81249,
+          -6.57979
+        ]
+      },
+      "properties": {
+        "mata_air_id": 19,
+        "tahun_pengamatan": "2009-01-01",
+        "kelurahan_id": 18,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Tegal Gundil, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82201,
+          -6.5436
+        ]
+      },
+      "properties": {
+        "mata_air_id": 20,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 24,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Ciparigi, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79163,
+          -6.59947
+        ]
+      },
+      "properties": {
+        "mata_air_id": 21,
+        "tahun_pengamatan": "2010-01-01",
+        "kelurahan_id": 32,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Paledang, Kecamatan Bogor Tengah",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82253,
+          -6.5864
+        ]
+      },
+      "properties": {
+        "mata_air_id": 22,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 22,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Cimahpar, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82116,
+          -6.54223
+        ]
+      },
+      "properties": {
+        "mata_air_id": 23,
+        "tahun_pengamatan": "2009-01-01",
+        "kelurahan_id": 24,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Ciparigi, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81901,
+          -6.60925
+        ]
+      },
+      "properties": {
+        "mata_air_id": 24,
+        "tahun_pengamatan": "2010-01-01",
+        "kelurahan_id": 39,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Katulampa, Kecamatan Bogor Timur",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80704,
+          -6.62477
+        ]
+      },
+      "properties": {
+        "mata_air_id": 25,
+        "tahun_pengamatan": "2010-01-01",
+        "kelurahan_id": 3,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Batu Tulis, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82163,
+          -6.54428
+        ]
+      },
+      "properties": {
+        "mata_air_id": 26,
+        "tahun_pengamatan": "2011-01-01",
+        "kelurahan_id": 24,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Ciparigi, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79399,
+          -6.64898
+        ]
+      },
+      "properties": {
+        "mata_air_id": 28,
+        "tahun_pengamatan": "2011-01-01",
+        "kelurahan_id": 4,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Pamoyanan, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75788,
+          -6.56704
+        ]
+      },
+      "properties": {
+        "mata_air_id": 29,
+        "tahun_pengamatan": "2011-01-01",
+        "kelurahan_id": 58,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Bubulak, Kecamatan Bogor Barat",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79399,
+          -6.60669
+        ]
+      },
+      "properties": {
+        "mata_air_id": 30,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 34,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Gudang, Kecamatan Bogor Tengah",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82515,
+          -6.62931
+        ]
+      },
+      "properties": {
+        "mata_air_id": 31,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 41,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Sindangrasa, Kecamatan Bogor Timur",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81957,
+          -6.58452
+        ]
+      },
+      "properties": {
+        "mata_air_id": 32,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 22,
+        "keterangan": "<p>Sumur 1</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Cimahpar, kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.823,
+          -6.58674
+        ]
+      },
+      "properties": {
+        "mata_air_id": 33,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 22,
+        "keterangan": "<p>Sumur 2</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Cimahpar, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82197,
+          -6.54343
+        ]
+      },
+      "properties": {
+        "mata_air_id": 34,
+        "tahun_pengamatan": "2011-01-01",
+        "kelurahan_id": 24,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Ciparigi, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78712,
+          -6.61965
+        ]
+      },
+      "properties": {
+        "mata_air_id": 35,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 9,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Cikaret, Kecamatan Bogor Selatan",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8109,
+          -6.62605
+        ]
+      },
+      "properties": {
+        "mata_air_id": 36,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 5,
+        "keterangan": "<p>.</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Cipaku, Kecamatan Bogor Utara",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79875,
+          -6.57109
+        ]
+      },
+      "properties": {
+        "mata_air_id": 37,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "keterangan": "<p>Sumur 1</p>\r\n",
+        "foto": "",
+        "alamat": "Kelurahan Mekarwangi, Kecamatan Tanah Sareal",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7774889,
+          -6.5318028
+        ]
+      },
+      "properties": {
+        "marker-color": "#67dced",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "mata_air_id": 38,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "keterangan": "<p>Sumur 2</p>",
+        "foto": "",
+        "alamat": "Kelurahan Mekarwangi, Kecamatan Tanah Sareal",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7694,
+          -6.57252
+        ]
+      },
+      "properties": {
+        "mata_air_id": 39,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 64,
+        "keterangan": "",
+        "foto": "",
+        "alamat": "Kecamatan Bogor Barat, Kel.Cilendek Barat",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75895,
+          -6.55346
+        ]
+      },
+      "properties": {
+        "mata_air_id": 40,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 62,
+        "keterangan": "<p>Sumur 1</p>\r\n",
+        "foto": "",
+        "alamat": "Kec.Bogor Barat kel.Semplak",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75962,
+          -6.55393
+        ]
+      },
+      "properties": {
+        "mata_air_id": 41,
+        "tahun_pengamatan": "2015-10-29",
+        "kelurahan_id": 62,
+        "keterangan": "<p>Sumur 2</p>\r\n",
+        "foto": "",
+        "alamat": "Kec.Bogor Barat Kel.Semplak",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77266,
+          -6.55598
+        ]
+      },
+      "properties": {
+        "marker-color": "#67dced",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "mata_air_id": 42,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 67,
+        "keterangan": "",
+        "foto": "",
+        "alamat": "Kel.Bogor Barat Kel.Curug Mekar",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7991,
+          -6.62777
+        ]
+      },
+      "properties": {
+        "mata_air_id": 43,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 7,
+        "keterangan": "",
+        "foto": "",
+        "alamat": "Kec.Bogor Selatan Kel.Ranggamekar",
+        "icon_map": "icon-mata_air.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79078,
+          -6.59808
+        ]
+      },
+      "properties": {
+        "mata_air_id": 44,
+        "tahun_pengamatan": "2016-02-24",
+        "kelurahan_id": 66,
+        "keterangan": "<p>di antaranya berada di kecaman bogor selatan, tanah sareal dan bogor tengah</p>\n",
+        "foto": "mata_air-571.jpg",
+        "alamat": "Rencana pembangunan perlindungan sumber mata air d",
+        "icon_map": "icon-mata_air.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1041 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.79757",
+          "-6.58871"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 2,
+        "sungai_id": 1,
+        "nama_sungai": "Ciliwung",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Jembatan Sempur",
+        "kelurahan_id": 27,
+        "kecamatan_id": 3,
+        "kelurahan_nama": "SEMPUR",
+        "kecamatan_nama": "BOGOR TENGAH",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciliwung - Tengah<br>Jembatan Sempur<br>BOGOR TENGAH<br>SEMPUR",
+        "x": "106.79757",
+        "y": "-6.58871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 42,
+        "sungai_id": 1,
+        "nama_sungai": "Ciliwung",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Dam Katulampa",
+        "kelurahan_id": 39,
+        "kecamatan_id": 4,
+        "kelurahan_nama": "KATULAMPA",
+        "kecamatan_nama": "BOGOR TIMUR",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciliwung - Hulu<br>Dam Katulampa<br>BOGOR TIMUR<br>KATULAMPA",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80579",
+          "-6.55327"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 3,
+        "sungai_id": 1,
+        "nama_sungai": "Ciliwung",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Villa Bogor Indah",
+        "kelurahan_id": 23,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "KEDUNGHALANG",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciliwung - Hilir<br>Villa Bogor Indah<br>BOGOR UTARA<br>KEDUNGHALANG",
+        "x": "106.80579",
+        "y": "-6.55327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.79473",
+          "-6.60587"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 6,
+        "sungai_id": 2,
+        "nama_sungai": "Cibalok",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Jembatan Empang",
+        "kelurahan_id": 1,
+        "kecamatan_id": 1,
+        "kelurahan_nama": "EMPANG",
+        "kecamatan_nama": "BOGOR SELATAN",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cibalok - Hilir<br>Jembatan Empang<br>BOGOR SELATAN<br>EMPANG",
+        "x": "106.79473",
+        "y": "-6.60587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.84358",
+          "-6.65033"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 4,
+        "sungai_id": 2,
+        "nama_sungai": "Cibalok",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Jembatan Tol Ciawi",
+        "kelurahan_id": 40,
+        "kecamatan_id": 4,
+        "kelurahan_nama": "SINDANG SARI",
+        "kecamatan_nama": "BOGOR TIMUR",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cibalok - Hulu<br>Jembatan Tol Ciawi<br>BOGOR TIMUR<br>SINDANG SARI",
+        "x": "106.84358",
+        "y": "-6.65033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80675",
+          "-6.62452"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 5,
+        "sungai_id": 2,
+        "nama_sungai": "Cibalok",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "PT. Boeh Ringer Ingelheim",
+        "kelurahan_id": 6,
+        "kecamatan_id": 1,
+        "kelurahan_nama": "LAWANG GINTUNG",
+        "kecamatan_nama": "BOGOR SELATAN",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cibalok - Tengah<br>PT. Boeh Ringer Ingelheim<br>BOGOR SELATAN<br>LAWANG GINTUNG",
+        "x": "106.80675",
+        "y": "-6.62452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80312",
+          "-6.57253"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 9,
+        "sungai_id": 3,
+        "nama_sungai": "Ciparigi",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Jembatan Jl. Negla Sari II /  SMAN 8",
+        "kelurahan_id": 42,
+        "kecamatan_id": 5,
+        "kelurahan_nama": "TANAH SAREAL",
+        "kecamatan_nama": "TANAH SAREAL",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciparigi - Hilir<br>Jembatan Jl. Negla Sari II /  SMAN 8<br>TANAH SAREAL<br>TANAH SAREAL",
+        "x": "106.80312",
+        "y": "-6.57253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.81274000",
+          "-6.58132000"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 8,
+        "sungai_id": 3,
+        "nama_sungai": "Ciparigi",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Jl. Raya Bangbarung Masjid",
+        "kelurahan_id": 18,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "TEGALGUNDIL",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciparigi - Tengah<br>Jl. Raya Bangbarung Masjid<br>BOGOR UTARA<br>TEGALGUNDIL",
+        "x": "106.81274000",
+        "y": "-6.58132000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.81120",
+          "-6.54950"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 7,
+        "sungai_id": 3,
+        "nama_sungai": "Ciparigi",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Bogor Lake Side",
+        "kelurahan_id": 24,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "CIPARIGI",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciparigi - Hulu<br>Bogor Lake Side<br>BOGOR UTARA<br>CIPARIGI",
+        "x": "106.81120",
+        "y": "-6.54950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.84293",
+          "-6.50531"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 12,
+        "sungai_id": 4,
+        "nama_sungai": "Ciluar",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Asrama Kopem",
+        "kelurahan_id": 23,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "KEDUNGHALANG",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciluar - Hilir<br>Asrama Kopem<br>BOGOR UTARA<br>KEDUNGHALANG",
+        "x": "106.84293",
+        "y": "-6.50531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.82255540",
+          "-6.55974140"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 11,
+        "sungai_id": 4,
+        "nama_sungai": "Ciluar",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Pangkalan Odong2 Tanah Baru",
+        "kelurahan_id": 20,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "TANAH BARU",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciluar - Tengah<br>Pangkalan Odong2 Tanah Baru<br>BOGOR UTARA<br>TANAH BARU",
+        "x": "106.82255540",
+        "y": "-6.55974140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.82647",
+          "-6.57302"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 10,
+        "sungai_id": 4,
+        "nama_sungai": "Ciluar",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Bogor Lake Side Jl. Bina Marga",
+        "kelurahan_id": 21,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "CILUAR",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciluar - Hulu<br>Bogor Lake Side Jl. Bina Marga<br>BOGOR UTARA<br>CILUAR",
+        "x": "106.82647",
+        "y": "-6.57302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.49242",
+          "-06.32578"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 44,
+        "sungai_id": 4,
+        "nama_sungai": "Ciluar",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Pemadam Kebakaran Bogor Utara",
+        "kelurahan_id": 21,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "CILUAR",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciluar - Hilir<br>Pemadam Kebakaran Bogor Utara<br>BOGOR UTARA<br>CILUAR",
+        "x": "106.49242",
+        "y": "-06.32578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 43,
+        "sungai_id": 4,
+        "nama_sungai": "Ciluar",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Jembatan Destarata / Puskesmas Bogor Utara",
+        "kelurahan_id": 17,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "BANTARJATI",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciluar - Tengah<br>Jembatan Destarata / Puskesmas Bogor Utara<br>BOGOR UTARA<br>BANTARJATI",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 33,
+        "sungai_id": 4,
+        "nama_sungai": "Ciluar",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Air Sungai Jembatan Destarata",
+        "kelurahan_id": 21,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "CILUAR",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Ciluar - Tengah<br>Air Sungai Jembatan Destarata<br>BOGOR UTARA<br>CILUAR",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.81041000",
+          "-6.62733000"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 14,
+        "sungai_id": 5,
+        "nama_sungai": "Cisadane",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Jembatan  Cipaku",
+        "kelurahan_id": 5,
+        "kecamatan_id": 1,
+        "kelurahan_nama": "CIPAKU",
+        "kecamatan_nama": "BOGOR SELATAN",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cisadane - Tengah<br>Jembatan  Cipaku<br>BOGOR SELATAN<br>CIPAKU",
+        "x": "106.81041000",
+        "y": "-6.62733000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.84352",
+          "-6.66160"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 13,
+        "sungai_id": 5,
+        "nama_sungai": "Cisadane",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Perumahan Rancamaya",
+        "kelurahan_id": 11,
+        "kecamatan_id": 1,
+        "kelurahan_nama": "RANCAMAYA",
+        "kecamatan_nama": "BOGOR SELATAN",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cisadane - Hulu<br>Perumahan Rancamaya<br>BOGOR SELATAN<br>RANCAMAYA",
+        "x": "106.84352",
+        "y": "-6.66160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 28,
+        "sungai_id": 5,
+        "nama_sungai": "Cisadane",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Gg. Makam Kelurahan Situ Gede",
+        "kelurahan_id": 59,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SITU GEDE",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cisadane - Hilir<br>Gg. Makam Kelurahan Situ Gede<br>BOGOR BARAT<br>SITU GEDE",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.77918080",
+          "-6.59402560"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 15,
+        "sungai_id": 5,
+        "nama_sungai": "Cisadane",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Jembatan Gunung Batu",
+        "kelurahan_id": 57,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "GUNUNG BATU",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "hilir.png",
+        "marker-color": "#FFD700",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cisadane - Hilir<br>Jembatan Gunung Batu<br>BOGOR BARAT<br>GUNUNG BATU",
+        "x": "106.77918080",
+        "y": "-6.59402560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 29,
+        "sungai_id": 6,
+        "nama_sungai": "Cisindangbarang",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Kantor BMKG",
+        "kelurahan_id": 59,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SITU GEDE",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cisindangbarang - Hilir<br>Kantor BMKG<br>BOGOR BARAT<br>SITU GEDE",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.77921",
+          "-6.58058"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 16,
+        "sungai_id": 6,
+        "nama_sungai": "Cisindangbarang",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Perum  Goodyear",
+        "kelurahan_id": 42,
+        "kecamatan_id": 5,
+        "kelurahan_nama": "TANAH SAREAL",
+        "kecamatan_nama": "TANAH SAREAL",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cisindangbarang - Hulu<br>Perum  Goodyear<br>TANAH SAREAL<br>TANAH SAREAL",
+        "x": "106.77921",
+        "y": "-6.58058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 18,
+        "sungai_id": 6,
+        "nama_sungai": "Cisindangbarang",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Situ gede Bengkel Las",
+        "kelurahan_id": 59,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SITU GEDE",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cisindangbarang - Hilir<br>Situ gede Bengkel Las<br>BOGOR BARAT<br>SITU GEDE",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.75220",
+          "-6.57314"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 17,
+        "sungai_id": 6,
+        "nama_sungai": "Cisindangbarang",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Jembatan Laladon",
+        "kelurahan_id": 68,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SINDANG BARANG",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cisindangbarang - Tengah<br>Jembatan Laladon<br>BOGOR BARAT<br>SINDANG BARANG",
+        "x": "106.75220",
+        "y": "-6.57314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.00000",
+          "-6.00000"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 45,
+        "sungai_id": 6,
+        "nama_sungai": "Cisindangbarang",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Perumahan Taman Pagelaran ",
+        "kelurahan_id": 68,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SINDANG BARANG",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cisindangbarang - Hulu<br>Perumahan Taman Pagelaran <br>BOGOR BARAT<br>SINDANG BARANG",
+        "x": "106.00000",
+        "y": "-6.00000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.78933",
+          "-6.58708"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 20,
+        "sungai_id": 7,
+        "nama_sungai": "Cipakancilan",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Pabrik Es Ciwaringin",
+        "kelurahan_id": 33,
+        "kecamatan_id": 3,
+        "kelurahan_nama": "CIWARINGIN",
+        "kecamatan_nama": "BOGOR TENGAH",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cipakancilan - Tengah<br>Pabrik Es Ciwaringin<br>BOGOR TENGAH<br>CIWARINGIN",
+        "x": "106.78933",
+        "y": "-6.58708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.79253",
+          "-6.56103"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 21,
+        "sungai_id": 7,
+        "nama_sungai": "Cipakancilan",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Bendungan Cibuluh",
+        "kelurahan_id": 19,
+        "kecamatan_id": 2,
+        "kelurahan_nama": "CIBULUH",
+        "kecamatan_nama": "BOGOR UTARA",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cipakancilan - Hilir<br>Bendungan Cibuluh<br>BOGOR UTARA<br>CIBULUH",
+        "x": "106.79253",
+        "y": "-6.56103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.79344",
+          "-6.60783"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 19,
+        "sungai_id": 7,
+        "nama_sungai": "Cipakancilan",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Dam Empang",
+        "kelurahan_id": 1,
+        "kecamatan_id": 1,
+        "kelurahan_nama": "EMPANG",
+        "kecamatan_nama": "BOGOR SELATAN",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cipakancilan - Hulu<br>Dam Empang<br>BOGOR SELATAN<br>EMPANG",
+        "x": "106.79344",
+        "y": "-6.60783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 30,
+        "sungai_id": 8,
+        "nama_sungai": "Cianten",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Bendungan Komplek Goodyear",
+        "kelurahan_id": 42,
+        "kecamatan_id": 5,
+        "kelurahan_nama": "TANAH SAREAL",
+        "kecamatan_nama": "TANAH SAREAL",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cianten - Hulu<br>Bendungan Komplek Goodyear<br>TANAH SAREAL<br>TANAH SAREAL",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.74942",
+          "-6.55887"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 24,
+        "sungai_id": 8,
+        "nama_sungai": "Cianten",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "Kampung Cifor",
+        "kelurahan_id": 59,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SITU GEDE",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cianten - Hilir<br>Kampung Cifor<br>BOGOR BARAT<br>SITU GEDE",
+        "x": "106.74942",
+        "y": "-6.55887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.76157",
+          "-6.56992"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 23,
+        "sungai_id": 8,
+        "nama_sungai": "Cianten",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Sindang Barang Pilar",
+        "kelurahan_id": 68,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SINDANG BARANG",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cianten - Tengah<br>Sindang Barang Pilar<br>BOGOR BARAT<br>SINDANG BARANG",
+        "x": "106.76157",
+        "y": "-6.56992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.78067",
+          "-6.59189"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 22,
+        "sungai_id": 8,
+        "nama_sungai": "Cianten",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Pesantren Al-Falah",
+        "kelurahan_id": 57,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "GUNUNG BATU",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cianten - Hulu<br>Pesantren Al-Falah<br>BOGOR BARAT<br>GUNUNG BATU",
+        "x": "106.78067",
+        "y": "-6.59189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.76464",
+          "-6.56714"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 27,
+        "sungai_id": 9,
+        "nama_sungai": "Cidepit",
+        "lokasi_uji": "Hilir",
+        "nama_lokasi": "PT. Kertas Bogor Cahaya, Gg. Mandor",
+        "kelurahan_id": 68,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SINDANG BARANG",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "hilir.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cidepit - Hilir<br>PT. Kertas Bogor Cahaya, Gg. Mandor<br>BOGOR BARAT<br>SINDANG BARANG",
+        "x": "106.76464",
+        "y": "-6.56714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.78272",
+          "-6.58628"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 26,
+        "sungai_id": 9,
+        "nama_sungai": "Cidepit",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Lapangan Golf, Jl. Dr. Sumeru",
+        "kelurahan_id": 35,
+        "kecamatan_id": 3,
+        "kelurahan_nama": "KEBON KALAPA",
+        "kecamatan_nama": "BOGOR TENGAH",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cidepit - Tengah<br>Lapangan Golf, Jl. Dr. Sumeru<br>BOGOR TENGAH<br>KEBON KALAPA",
+        "x": "106.78272",
+        "y": "-6.58628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.78736110",
+          "-6.59552778"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 25,
+        "sungai_id": 9,
+        "nama_sungai": "Cidepit",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Pasar Devris Jembatan Merah",
+        "kelurahan_id": 29,
+        "kecamatan_id": 3,
+        "kelurahan_nama": "PANARAGAN",
+        "kecamatan_nama": "BOGOR TENGAH",
+        "icon_map": "hulu.png",
+        "marker-color": "#1E90FF",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Cidepit - Hulu<br>Pasar Devris Jembatan Merah<br>BOGOR TENGAH<br>PANARAGAN",
+        "x": "106.78736110",
+        "y": "-6.59552778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 46,
+        "sungai_id": 10,
+        "nama_sungai": "Angke",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Jembatan Dekat Mc Donalds Semplak",
+        "kelurahan_id": 62,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SEMPLAK",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Angke - Hulu<br>Jembatan Dekat Mc Donalds Semplak<br>BOGOR BARAT<br>SEMPLAK",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 41,
+        "sungai_id": 10,
+        "nama_sungai": "Angke",
+        "lokasi_uji": "Hulu",
+        "nama_lokasi": "Jembatan Jl.Raya Cibadak-Ciampea",
+        "kelurahan_id": 51,
+        "kecamatan_id": 5,
+        "kelurahan_nama": "KAYUMANIS",
+        "kecamatan_nama": "TANAH SAREAL",
+        "icon_map": "hulu.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Angke - Hulu<br>Jembatan Jl.Raya Cibadak-Ciampea<br>TANAH SAREAL<br>KAYUMANIS",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "106.80467",
+          "-6.59054"
+        ]
+      },
+      "properties": {
+        "lokasiuji_sungai_id": 47,
+        "sungai_id": 10,
+        "nama_sungai": "Angke",
+        "lokasi_uji": "Tengah",
+        "nama_lokasi": "Jembatan Dekat SMK Penerbangan ",
+        "kelurahan_id": 62,
+        "kecamatan_id": 6,
+        "kelurahan_nama": "SEMPLAK",
+        "kecamatan_nama": "BOGOR BARAT",
+        "icon_map": "tengah.png",
+        "marker-color": "#20B2AA",
+        "marker-symbol": "water",
+        "marker-size": "medium",
+        "description": "<b>LOKASI UJI AIR SUNGAI</b><br>Angke - Tengah<br>Jembatan Dekat SMK Penerbangan <br>BOGOR BARAT<br>SEMPLAK",
+        "x": "106.80467",
+        "y": "-6.59054"
+      }
+    }
+  ]
+}

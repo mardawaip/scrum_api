@@ -1,0 +1,1807 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 2,
+        "alamat": "Kel. Menteng",
+        "nama_lokasi": "Air Sumur Kelurahan Menteng",
+        "kelurahan_id": 53,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 3,
+        "alamat": "Jl. Panaragan Baru Blk No 6 RT 01/RW 05 Boteng",
+        "nama_lokasi": "Bpk Agus Suryana",
+        "kelurahan_id": 29,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77814,
+          -6.57477
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 4,
+        "alamat": "Kel.Cilendex Timur",
+        "nama_lokasi": "Air Sumur Kelurahan Cilendek T",
+        "kelurahan_id": 63,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76966,
+          -6.57271
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 5,
+        "alamat": "Kel.Cilendek Barat",
+        "nama_lokasi": "Air Sumur Kelurahan Cilendek B",
+        "kelurahan_id": 64,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76412,
+          -6.55335
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 6,
+        "alamat": "Kelurahan Curug",
+        "nama_lokasi": "Air Sumur Kelurahan Curug",
+        "kelurahan_id": 65,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 7,
+        "alamat": "Kelurahan Curug Mekar",
+        "nama_lokasi": "Air Sumur Kelurahan Curug Meka",
+        "kelurahan_id": 67,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76111,
+          -6.55308
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 8,
+        "alamat": "Kelurahan Semplak",
+        "nama_lokasi": "Air Sumur Kelurahan Semplak",
+        "kelurahan_id": 62,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75479,
+          -6.55197
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 9,
+        "alamat": "Kelurahan Bubulak",
+        "nama_lokasi": "Air Sumur Kelurahan Bubulak",
+        "kelurahan_id": 58,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 10,
+        "alamat": "Kelurahan Situ Gede",
+        "nama_lokasi": "Air Sumur Kelurahan Situ Gede",
+        "kelurahan_id": 59,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.785316,
+          -6.596789
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 11,
+        "alamat": "jl. Panaragan Baru Blk No 6 RT 01/ RW 05 Boteng",
+        "nama_lokasi": "Bpk Agus Suryana",
+        "kelurahan_id": 29,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 12,
+        "alamat": "Kelurahan Marga Jaya",
+        "nama_lokasi": "Air Sumur Kelurahan Marga Jaya",
+        "kelurahan_id": 60,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7711,
+          -6.58287
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 13,
+        "alamat": "Kelurahan Loji",
+        "nama_lokasi": "Air Sumur Kelurahan Loji",
+        "kelurahan_id": 66,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76265,
+          -6.57799
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 14,
+        "alamat": "Kelurahan Sindang Barang",
+        "nama_lokasi": "Air Sumur Kelurahan Sindang Ba",
+        "kelurahan_id": 68,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77852,
+          -6.59335
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 15,
+        "alamat": "Kelurahan Gunung Batu",
+        "nama_lokasi": "Air Sumur Kelurahan Gunung Bat",
+        "kelurahan_id": 57,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 16,
+        "alamat": "Kelurahan Pasir Mulya",
+        "nama_lokasi": "Air Sumur Kelurahan Pasir Muly",
+        "kelurahan_id": 56,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 17,
+        "alamat": "Kelurahan Pasir Jaya",
+        "nama_lokasi": "Air Sumur Kelurahan Pasir Jaya",
+        "kelurahan_id": 55,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 18,
+        "alamat": "Kelurahan Pasir Kuda",
+        "nama_lokasi": "Air Sumur Kelurahan Pasir Kuda",
+        "kelurahan_id": 54,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7848618,
+          -6.596597
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 20,
+        "alamat": " Jl. Panaragan Baru Blk No 6 RT 01/RW 05 Boteng",
+        "nama_lokasi": "Bpk Agus Suryana",
+        "kelurahan_id": 29,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7919753,
+          -6.6017247
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 21,
+        "alamat": "gg. Tanjakan Pala RT 05/04 Kel Paledang Boteng",
+        "nama_lokasi": "Bpk. Adang",
+        "kelurahan_id": 32,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7856843,
+          -6.5959197
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 22,
+        "alamat": " Jl. Mantarena Jembatan merah RT 04/03 Panaragan B",
+        "nama_lokasi": "Mesjid RT 04",
+        "kelurahan_id": 29,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.787589,
+          -6.555392
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 24,
+        "alamat": "Kp. Cimanggu Wates RT 01/09 Tanah Sareal",
+        "nama_lokasi": "Bpk Agus Yusuf",
+        "kelurahan_id": 44,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7782943,
+          -6.5649316
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 25,
+        "alamat": "Perum Taman Cimanggu RT 02/05  Tanah Sareal",
+        "nama_lokasi": "Ibu Sumari ",
+        "kelurahan_id": 46,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8439934,
+          -6.6540605
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 26,
+        "alamat": " Jl. Raya Ciawi No. 28 RT 01/01 Sindangsari Botim",
+        "nama_lokasi": "Bpk. H. Halim ",
+        "kelurahan_id": 40,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7616034,
+          -6.5804745
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 27,
+        "alamat": "Jl. Sindangbarang Loji RT 03/07 Kel. Sindang Baran",
+        "nama_lokasi": "Ibu Eroh ",
+        "kelurahan_id": 68,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8090973,
+          -6.5800217
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 28,
+        "alamat": "Jl. Arjimar II No. 16 RT 04/02 Tegal Gundil Bogor ",
+        "nama_lokasi": "Bpk. Erwin ",
+        "kelurahan_id": 18,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8071196,
+          -6.622851
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 29,
+        "alamat": " Jl.Batu Tulis, Gg.Mesjid No.17 RT 05/02 Kel. Batu",
+        "nama_lokasi": "Bpk.Dadang",
+        "kelurahan_id": 3,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8012825,
+          -6.6149445
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 30,
+        "alamat": "Kp. Jero Kuta RT 05/08 Kel Empang Bogsel",
+        "nama_lokasi": "Ibu Aisyah",
+        "kelurahan_id": 1,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 32,
+        "alamat": "Kelurahan Tanah Sereal",
+        "nama_lokasi": "Air Sumur Kelurahan Tanah Sere",
+        "kelurahan_id": 42,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 33,
+        "alamat": "Kelurahan Kebon Pedes",
+        "nama_lokasi": "Air Sumur Kelurahan Kebon Pede",
+        "kelurahan_id": 43,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79514,
+          -6.56416
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 34,
+        "alamat": "Kelurahan Kedung Badak",
+        "nama_lokasi": "Air Sumur Kelurahan Kedung Bad",
+        "kelurahan_id": 44,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7873,
+          -6.56539
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 35,
+        "alamat": "Kelurahan Kedung Jaya",
+        "nama_lokasi": "Air Sumur Kelurahan Kedung Jay",
+        "kelurahan_id": 45,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78049,
+          -6.56192
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 36,
+        "alamat": "Kelurahan Kedung Waringin",
+        "nama_lokasi": "Air Sumur Kelurahan Kedung War",
+        "kelurahan_id": 46,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78899,
+          -6.55583
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 37,
+        "alamat": "Kelurahan Suka Damai",
+        "nama_lokasi": "Air Sumur Kelurahan Suka Damai",
+        "kelurahan_id": 48,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79785,
+          -6.55368
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 38,
+        "alamat": "Kelurahan Suka Resmi",
+        "nama_lokasi": "Air Sumur Kelurahan Suka Resmi",
+        "kelurahan_id": 47,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77348,
+          -6.54446
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 39,
+        "alamat": "Kelurahan Cibadak",
+        "nama_lokasi": "Air Sumur Kelurahan Cibadak",
+        "kelurahan_id": 52,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78707,
+          -6.53077
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 40,
+        "alamat": "Kelurahan Kencana",
+        "nama_lokasi": "Air Sumur Kelurahan Kencana",
+        "kelurahan_id": 50,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77763,
+          -6.53225
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 41,
+        "alamat": "Jalan Kyai Haji Ahmad Sya'yani No.18, Tanah Sereal",
+        "nama_lokasi": "Air Sumur Kelurahan Mekar Wang",
+        "kelurahan_id": 49,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76911,
+          -6.53014
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 42,
+        "alamat": "Kel. Kayu Manis, Kec. Tanah Sareal",
+        "nama_lokasi": "Air Sumur Kelurahan Kayu Manis",
+        "kelurahan_id": 51,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8076274,
+          -6.5665329
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 43,
+        "alamat": "Kel. Cilbuluh, Kec. Bogor Utara",
+        "nama_lokasi": "Air Sumur Kelurahan Cibuluh",
+        "kelurahan_id": 19,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81143,
+          -6.58017
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 44,
+        "alamat": "Kel. Tegal Gundil, Kec. Bogor Utara",
+        "nama_lokasi": "Air Sumur Kelurahan Tegal Gund",
+        "kelurahan_id": 18,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80282,
+          -6.57754
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 45,
+        "alamat": "Kel. Bantar Jati, Kec. Bogor Utara",
+        "nama_lokasi": "Air Sumur Kelurahan Bantar Jat",
+        "kelurahan_id": 17,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82324,
+          -6.55942
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 46,
+        "alamat": "Kel. Tanah Baru, Kec. Bogor Utara",
+        "nama_lokasi": "Air Sumur Kelurahan Tanah Baru",
+        "kelurahan_id": 20,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.825886,
+          -6.589358
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 47,
+        "alamat": "Kel. Cimahpar, Kec. Bogor Utara",
+        "nama_lokasi": "Air Sumur Kelurahan Cimahpar",
+        "kelurahan_id": 22,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.829024,
+          -6.550054
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 48,
+        "alamat": "Kel. Ciluar, Kec. Bogor Utara",
+        "nama_lokasi": "Air sumur Kelurahan Ciluar",
+        "kelurahan_id": 21,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.816554,
+          -6.542608
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 49,
+        "alamat": "Kel. Ciparigi, Kec. Bogor Utara",
+        "nama_lokasi": "Air Sumur Kelurahan Ciparigi",
+        "kelurahan_id": 24,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8151285,
+          -6.6197783
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 50,
+        "alamat": "Kel. Sukasari, Kec. Bogor Timur",
+        "nama_lokasi": "Air Sumur Kelurahan Sukasari",
+        "kelurahan_id": 37,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806011,
+          -6.606393
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 51,
+        "alamat": "Kel. Baranang Siang, Kec. Bogor Timur",
+        "nama_lokasi": "Air Sumur Kelurahan Baranang S",
+        "kelurahan_id": 36,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.824472,
+          -6.622709
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 52,
+        "alamat": "Kel. Katulampa, Kec. Bogor Timur",
+        "nama_lokasi": "Air Sumur Kelurahan Katulampa",
+        "kelurahan_id": 39,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83943,
+          -6.640153
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 53,
+        "alamat": "Kel. Sindang Rasa, Kec. Bogor Timur",
+        "nama_lokasi": "Air Sumur Kelurahan Sindang Ra",
+        "kelurahan_id": 41,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 54,
+        "alamat": "Kel. Sindang Sari, Kec. Bogor Timur",
+        "nama_lokasi": "Air Sumur Kelurahan Sindang Sa",
+        "kelurahan_id": 40,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7907481,
+          -6.5977494
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 55,
+        "alamat": "Kel. Paledang, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Paledang",
+        "kelurahan_id": 32,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8010373,
+          -6.6098157
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 56,
+        "alamat": "Kel. Gudang, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Gudang",
+        "kelurahan_id": 34,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7906933,
+          -6.5833107
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 57,
+        "alamat": "Kel. Cibogor Tengah, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Cibogor Te",
+        "kelurahan_id": 30,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790832,
+          -6.582987
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 58,
+        "alamat": "Kel. Ciwaringin, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Ciwaringin",
+        "kelurahan_id": 33,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 59,
+        "alamat": "Kel. Kebun Kelapa, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Kebun Kela",
+        "kelurahan_id": 35,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7846963,
+          -6.5975057
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 60,
+        "alamat": "Kel. Panaragan, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Panaragan",
+        "kelurahan_id": 29,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7925562,
+          -6.6046608
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 61,
+        "alamat": "Kel. Babakan Pasar, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Babakan Pa",
+        "kelurahan_id": 28,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7933487,
+          -6.5897893
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 62,
+        "alamat": "Kel. Babakan, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Babakan",
+        "kelurahan_id": 31,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.800498,
+          -6.589315
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 63,
+        "alamat": "Kel. Sempur, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Sempur",
+        "kelurahan_id": 27,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810301,
+          -6.599957
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 64,
+        "alamat": "Kel. Tegal Lega, Kec. Bogor Tengah",
+        "nama_lokasi": "Air Sumur Kelurahan Tegal Lega",
+        "kelurahan_id": 26,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7991213,
+          -6.6055414
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 65,
+        "alamat": "Kel. Bondongan, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Bondongan",
+        "kelurahan_id": 2,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.785229,
+          -6.619212
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 66,
+        "alamat": "Kel. Cikaret, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Cikaret",
+        "kelurahan_id": 9,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80346,
+          -6.614971
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 67,
+        "alamat": "Kel. Empang, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Empang",
+        "kelurahan_id": 1,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806761,
+          -6.620246
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 68,
+        "alamat": "Kel. Batu Tulis, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Batu Tulis",
+        "kelurahan_id": 3,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8111353,
+          -6.6352087
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 69,
+        "alamat": "Kel. Cipaku, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Cipaku",
+        "kelurahan_id": 5,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812354,
+          -6.62098
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 70,
+        "alamat": "Kel. Lawang Gintung, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Lawang Gin",
+        "kelurahan_id": 6,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8189984,
+          -6.6323851
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 71,
+        "alamat": "Kel. Pakuan, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Pakuan",
+        "kelurahan_id": 16,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7900893,
+          -6.6252897
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 72,
+        "alamat": "Kel. Mulya Harja, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Mulya Harj",
+        "kelurahan_id": 8,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7747683,
+          -6.6252414
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 73,
+        "alamat": "Kel. Pamoyanan, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Pamoyanan",
+        "kelurahan_id": 4,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7747683,
+          -6.6251555
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 74,
+        "alamat": "Kel. Rangga Mekar, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Rangga Mek",
+        "kelurahan_id": 7,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8215303,
+          -6.6467583
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 75,
+        "alamat": "Kel. Muara Sari, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Muara Sari",
+        "kelurahan_id": 14,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7952654,
+          -6.6466505
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 76,
+        "alamat": "Kel. Harja Sari, Kec. Bogor Selatan",
+        "nama_lokasi": "Kelurahan Harja Sari ",
+        "kelurahan_id": 13,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8268824,
+          -6.6516082
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 77,
+        "alamat": "Kel. Bojong Kerta, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Bojong Ker",
+        "kelurahan_id": 10,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8090343,
+          -6.6410217
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 78,
+        "alamat": "Kel. Rancamaya, Kec. Bogor Selatan",
+        "nama_lokasi": "Air Sumur Kelurahan Rancamaya",
+        "kelurahan_id": 11,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806037,
+          -6.606405
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 79,
+        "alamat": "RT 04/04 Baranang Siang",
+        "nama_lokasi": "Bu Ani",
+        "kelurahan_id": 36,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.842894,
+          -6.64726
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 80,
+        "alamat": "RT03/01 Sindang Sari",
+        "nama_lokasi": "Bu Iyum",
+        "kelurahan_id": 40,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.842894,
+          -6.64726
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 81,
+        "alamat": "Bogor Timur Sindang Sari RT 04/07 ",
+        "nama_lokasi": "Pa.M.Ali ",
+        "kelurahan_id": 40,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.843779,
+          -6.672906
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 82,
+        "alamat": "Bojong Kerta Bogor Selatan",
+        "nama_lokasi": "Bu Ihat",
+        "kelurahan_id": 10,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.811508,
+          -6.580091
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 83,
+        "alamat": "Kelurahan Tegal Gundil RT 01/08 Bogor Utara",
+        "nama_lokasi": "Bpk. Edi Permana",
+        "kelurahan_id": 18,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.825896,
+          -6.589284
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 84,
+        "alamat": "Kelurahan Cimahpar Bogor Utara",
+        "nama_lokasi": "Bpk. Aib Rahmat",
+        "kelurahan_id": 22,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.829056,
+          -6.550037
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 85,
+        "alamat": "Ciluar RT 04/01 Bogor Utara",
+        "nama_lokasi": "Mesjid Nurul Huda",
+        "kelurahan_id": 21,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826229,
+          -6.559181
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 86,
+        "alamat": "Kelurahan Tanah baru RT 04/02 Bogor Utara",
+        "nama_lokasi": "Bpk. Ana",
+        "kelurahan_id": 20,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.820747,
+          -6.536247
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 87,
+        "alamat": "Kelurahan Ciparigi Bogor Utara",
+        "nama_lokasi": "Dekat lap.Bola",
+        "kelurahan_id": 24,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806889,
+          -6.549445
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 88,
+        "alamat": "Kelurahan Kedung Halang RT 01/13 KEcamatan Bogor U",
+        "nama_lokasi": "Bpk. Aja Sudarja",
+        "kelurahan_id": 23,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77345,
+          -6.544419
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 89,
+        "alamat": "Kelurahan Cibadak RT 02/09  Kecamatan Tanah Sareal",
+        "nama_lokasi": "Ibu Junayah",
+        "kelurahan_id": 52,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.788979,
+          -6.555747
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 90,
+        "alamat": "Kelurahan Suka Damai RT 03/07 Kecamatan Tanah Sare",
+        "nama_lokasi": "Ibu Reok ",
+        "kelurahan_id": 48,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.788597,
+          -6.528152
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 91,
+        "alamat": "Kelurahan Kencana RT 02/09 Kecamatan Tanah Sareal",
+        "nama_lokasi": "Bpk Olani ",
+        "kelurahan_id": 50,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.768699,
+          -6.530184
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 92,
+        "alamat": "Kelurahan Kayu Manis RT 03/02  Kecamatan Tanah Sar",
+        "nama_lokasi": "Ibu Yanti ",
+        "kelurahan_id": 51,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807977,
+          -6.553204
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 93,
+        "alamat": "Kelurahan Kedung Halang RT 02/05  Kecamatan Bogor ",
+        "nama_lokasi": "Bpk Idris",
+        "kelurahan_id": 23,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7904673,
+          -6.5531504
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 97,
+        "alamat": "RT 02/06 Kel Kedung Jaya",
+        "nama_lokasi": "Bpk Sidik",
+        "kelurahan_id": 45,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7431265,
+          -6.5631182
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 98,
+        "alamat": "RT 05/03 Kel Bubulak",
+        "nama_lokasi": "Steam Motor ",
+        "kelurahan_id": 58,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829523,
+          -6.5906807
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 99,
+        "alamat": "Rt01/01  Kel Situ Gede",
+        "nama_lokasi": "Bpk Ajo",
+        "kelurahan_id": 59,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7520783,
+          -6.5698645
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 100,
+        "alamat": "RT03/04  Kel. Sindang Barang",
+        "nama_lokasi": "Bpk Atmaja ",
+        "kelurahan_id": 68,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7520783,
+          -6.5698645
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 101,
+        "alamat": "RT02/01  Kel. Sindang Barang",
+        "nama_lokasi": "Bpk. Bujang ",
+        "kelurahan_id": 68,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7846963,
+          -6.5975057
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 102,
+        "alamat": "Kel. Panaragan, Kec. Bogor Tengah",
+        "nama_lokasi": "Mushola At Taqwa ",
+        "kelurahan_id": 29,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7900473,
+          -6.5980337
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 103,
+        "alamat": "RT 05/04  Kel. Paledang",
+        "nama_lokasi": "Ibu Suyatna ",
+        "kelurahan_id": 32,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7951423,
+          -6.5641617
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 104,
+        "alamat": "RT 08/08 Kel. Kedung Badak",
+        "nama_lokasi": "Bpk Hardi RT",
+        "kelurahan_id": 44,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7716714,
+          -6.5726354
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 105,
+        "alamat": "RT 01/02 Kel. Cilendek",
+        "nama_lokasi": "Bpk. Haryanto ",
+        "kelurahan_id": 64,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7563504,
+          -6.5725871
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 106,
+        "alamat": "RT 01/02  Kel. Cilendek Timur",
+        "nama_lokasi": "Ibu Mahani ",
+        "kelurahan_id": 63,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7906933,
+          -6.5833107
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 107,
+        "alamat": "RT 02/05 Kel. Cibogor",
+        "nama_lokasi": "Dekat Sungai  ",
+        "kelurahan_id": 30,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7964343,
+          -6.5889137
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 108,
+        "alamat": " RT 01/05 Kel. Sempur",
+        "nama_lokasi": "Ibu Hoi",
+        "kelurahan_id": 27,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7829493,
+          -6.6033137
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 109,
+        "alamat": "RT 03/07 Kel. Pasir Kuda",
+        "nama_lokasi": "Bpk Enjak ",
+        "kelurahan_id": 54,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7990553,
+          -6.6116737
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 110,
+        "alamat": "RT 02/03 Kel. Bondongan",
+        "nama_lokasi": "Ibu Neri ",
+        "kelurahan_id": 2,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74721,
+          -6.56728
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 111,
+        "alamat": "Kec.Bogor Barat Kel.Balumbang Jaya",
+        "nama_lokasi": "Air Sumur Balumbang Jaya",
+        "kelurahan_id": 61,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7833082,
+          -6.6242583
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 112,
+        "alamat": "Rancamaya",
+        "nama_lokasi": "Pa Apud  ",
+        "kelurahan_id": 11,
+        "icon_map": "icon-sumur.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82283,
+          -6.54479
+        ]
+      },
+      "properties": {
+        "lokasiuji_sumur_id": 113,
+        "alamat": "Kel. Ciparigi",
+        "nama_lokasi": "Dekat lap.Bola Kel. Ciparigi",
+        "kelurahan_id": 24,
+        "icon_map": "icon-sumur.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[703343.9999999991,9265004]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. GOODRAY","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[703247.0000000012,9265819]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PURI MIRA","LAYER":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[702785.0000000003,9265987]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. ASIA PACIFIC PRATAMA","LAYER":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[701847,9266560.999999998]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. DJARUM KAWASAKI","LAYER":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[701793.9999999993,9266594]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. EKA SARU LORENA","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[701483.9999999999,9267160]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"GALAXI THEATRE","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[700248.9999999998,9269212]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"RS. BOGOR MEDICAL CENTRE","LAYER":"Unknown Point Feature"}}
+]}

@@ -1,0 +1,1373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80612,
+          -6.598552
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 1,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit PMI",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 26,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807815,
+          -6.579123
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 2,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit AZRA",
+        "alamat": "Jl. Raya Pajajaran No. 219",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810384,
+          -6.608059
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 3,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit BMC",
+        "alamat": "Jl. Baranangsiang No. 5",
+        "kelurahan_id": 36,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797462,
+          -6.591294
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 4,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit SALAK",
+        "alamat": "Jl. Jendral Sudirman No. 8",
+        "kelurahan_id": 27,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797171,
+          -6.584376
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 5,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit MELANIA",
+        "alamat": "Jl. Pahlawan No. 91",
+        "kelurahan_id": 2,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77999,
+          -6.58299
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 6,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit MARZOEKI MAHDI",
+        "alamat": "Jl. Semeru No. 114",
+        "kelurahan_id": 53,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.777516,
+          -6.581125
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 7,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit KARYA BAKTI",
+        "alamat": "Jl. Semeru No. 120",
+        "kelurahan_id": 53,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.773999,
+          -6.557094
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 8,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit HERMINA",
+        "alamat": "Jl. Abdullah M. Nuh",
+        "kelurahan_id": 67,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797171,
+          -6.559087
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 9,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit ISLAM",
+        "alamat": "Jl. Perdana Raya 22",
+        "kelurahan_id": 44,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797171,
+          -6.584376
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 10,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Klinik PRODIA",
+        "alamat": "Jl. Jendral Sudirman",
+        "kelurahan_id": 27,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.794612,
+          -6.608691
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 11,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Rumah Sakit UMMI",
+        "alamat": "Jl. Lologok No. 4",
+        "kelurahan_id": 1,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805613,
+          -6.585674
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 12,
+        "limbah_cair_id": 1,
+        "nama_lokasi": "Klinik BOGOR KIDNEY CENTER",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797171,
+          -6.584376
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 13,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan TAMAN PALEM",
+        "alamat": "JL Raya Pajajaran, No. 121",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8016168,
+          -6.5920978
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 14,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan SAUNG MIRAH",
+        "alamat": "Jalan Pangrango No.32",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812778,
+          -6.611276
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 15,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan GILI GILI",
+        "alamat": "Jl. Raya Pajajaran No.69",
+        "kelurahan_id": 36,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.792527,
+          -6.601353
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 16,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan GUMATI (Paledang)",
+        "alamat": "Jl. Paledang No.26",
+        "kelurahan_id": 32,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810731,
+          -6.626569
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 17,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan GUMATI (Batu Tulis))",
+        "alamat": "Jl. Drs. R. Saleh Danasasmita No 165",
+        "kelurahan_id": 6,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807811,
+          -6.573759
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 18,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan GURIH TUJUH ",
+        "alamat": "Jl. Raya Pajajaran No.102",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8111013,
+          -6.6135877
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 19,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan PONDOK BAMBU KURING",
+        "alamat": "JL. Pajajaran, No. 43",
+        "kelurahan_id": 36,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7989101,
+          -6.5622366
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 20,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan PONDOK SAUNG KURING",
+        "alamat": "Jl. K.H Sholeh Iskandar",
+        "kelurahan_id": 44,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81031,
+          -6.608529
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 21,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan HOKA HOKA BENTO",
+        "alamat": "Jl. Raya Pajajaran 25",
+        "kelurahan_id": 36,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790998,
+          -6.561448
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 22,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan MC DONALD YOGYA",
+        "alamat": "Jl. K. H. Soleh Iskandar",
+        "kelurahan_id": 44,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805379,
+          -6.602594
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 23,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan KFC PAJAJARAN",
+        "alamat": "Jl. Raya Pajajaran No .8",
+        "kelurahan_id": 36,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.801,
+          -6.595
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 24,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan PIZZA PAPARONS",
+        "alamat": "Jl.Raya Pajajaran No 26",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790253,
+          -6.561095
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 25,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan Pizza HUT YOGYA",
+        "alamat": "Jl. K. H. Soleh Iskandar",
+        "kelurahan_id": 44,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.808695,
+          -6.606356
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 26,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan Pizza HUT  PAJAJARAN",
+        "alamat": "Jl Raya Pajajaran No 29",
+        "kelurahan_id": 36,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797171,
+          -6.584376
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 27,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan DE LEUIT",
+        "alamat": "Jl. Pakuan",
+        "kelurahan_id": 36,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790391,
+          -6.561189
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 28,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan KFC YOGYA",
+        "alamat": "Jl. K. H. Soleh Iskandar",
+        "kelurahan_id": 44,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.784,
+          -6.558656
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 29,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan AMPERA",
+        "alamat": "Jl. K. H. Soleh Iskandar No. 26",
+        "kelurahan_id": 45,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.775043,
+          -6.556734
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 30,
+        "limbah_cair_id": 2,
+        "nama_lokasi": "Rumah Makan RAJA AYAM PENYET",
+        "alamat": "Jl K.H Abdullah Bin Nuh No. 16",
+        "kelurahan_id": 67,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806555,
+          -6.601388
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 31,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel SANTIKA",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 26,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.804121,
+          -6.592989
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 32,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel PANGRANGO",
+        "alamat": "Jl. Raya Pangrango No. 23",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.801,
+          -6.596
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 33,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "HOTEL PANGRANGO 2",
+        "alamat": "Jl. Raya Pangrango No. 32",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80536,
+          -6.588426
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 34,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "HOTEL PANGRANGO 3",
+        "alamat": "Jl. Raya Pangrango No. 1",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793907,
+          -6.594449
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 35,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel SALAK",
+        "alamat": "Jl. Ir. H. Djuanda",
+        "kelurahan_id": 25,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.791479,
+          -6.558859
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 36,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel PAPYRUS",
+        "alamat": "Jl. Perdana Raya",
+        "kelurahan_id": 44,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79414,
+          -6.600958
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 37,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel SAHIRA PALEDANG",
+        "alamat": "Jl. Paledang",
+        "kelurahan_id": 32,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797171,
+          -6.584376
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 38,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel SAHIRA A YANI",
+        "alamat": "Jl. A. Yani",
+        "kelurahan_id": 42,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.795041,
+          -6.602605
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 39,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel ROYAL",
+        "alamat": "Jl. Ir. H. Djuanda",
+        "kelurahan_id": 32,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806879,
+          -6.576333
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 40,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "HOTEL PADJAJARAN SUITES",
+        "alamat": "Jalan Raya Padjadjaran No.17",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810313,
+          -6.607848
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 41,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel AMARIS",
+        "alamat": "Jl. Pakuan No. 2",
+        "kelurahan_id": 36,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7740939,
+          -6.5812427
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 42,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel BRAJA MUSTIKA",
+        "alamat": "Jl. Dr. Semeru",
+        "kelurahan_id": 53,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805042,
+          -6.59746
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 43,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel PERMATA",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.811188,
+          -6.606062
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 44,
+        "limbah_cair_id": 3,
+        "nama_lokasi": "Hotel HORISON",
+        "alamat": "Jl. Pakuan",
+        "kelurahan_id": 36,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806841,
+          -6.57997
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 45,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel SETIA JAYA MOBILINDO",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806842,
+          -6.579971
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 46,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel Toyota Setiajaya Mobilindo",
+        "alamat": "Jl Raya Pajajaran",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807417,
+          -6.577857
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 47,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel AUTOPIT",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.823,
+          -6.632
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 48,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel LORENA",
+        "alamat": "Jl. Raya Tajur",
+        "kelurahan_id": 38,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80758,
+          -6.577446
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 49,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel PT. ASTRA INTERNATIONAL ISUZU ",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807647,
+          -6.576934
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 50,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel PT. ASTRA INTERNATIONAL DAIHATZU",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.804487,
+          -6.594601
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 51,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel ASTRA AUTO 2000",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8072893,
+          -6.6066997
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 52,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel LEMBAH TIRTA",
+        "alamat": "Jl. Raya Pajajaran No.225",
+        "kelurahan_id": 31,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.818186,
+          -6.62308
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 53,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel Toyota Auto 2000 Siliwangi",
+        "alamat": "Jl. Raya Siliwangi",
+        "kelurahan_id": 16,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805841,
+          -6.585228
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 54,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel Madza Padjajaran",
+        "alamat": "Jl. Raya Pajajaran No. 45",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806155,
+          -6.583468
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 55,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel Nissan Padjajaran",
+        "alamat": "Jl. Raya Pajajaran No. 55",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806455,
+          -6.580467
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 56,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel Suzuki Citra Asri Buana",
+        "alamat": "Jl Raya Pajajran",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.777835,
+          -6.556477
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 57,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel Toyota Auto 2000 Yasmin",
+        "alamat": "Jl. Abdullah Bin Nuh",
+        "kelurahan_id": 52,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80758,
+          -6.577446
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 58,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel PT. Isuzu Bogor",
+        "alamat": "Jl Raya Pajajaran",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807647,
+          -6.576934
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 59,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel PT. Daihatsu Bogor",
+        "alamat": "Jl Raya Pajajaran",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8083156,
+          -6.6186893
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 60,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel PT. Sepindo Perdana",
+        "alamat": "Jl. Batutulis Gg. Nv Sidik",
+        "kelurahan_id": 3,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.837,
+          -6.642
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 61,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel PO. Bus Rosalia Indah",
+        "alamat": "Jl. Raya Tajur No. 227",
+        "kelurahan_id": 41,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807957,
+          -6.55336
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 62,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel SPBU 3416715",
+        "alamat": "Jl. Raya Pemda",
+        "kelurahan_id": 23,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797171,
+          -6.584376
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 63,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel Graha SIG",
+        "alamat": "Jl. Raya Rasa Mala No. 20",
+        "kelurahan_id": 67,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81979,
+          -6.553684
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 64,
+        "limbah_cair_id": 4,
+        "nama_lokasi": "Bengkel PT. Citra Abadi Sejati",
+        "alamat": "Jl Raya Bogor",
+        "kelurahan_id": 19,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80796,
+          -6.568877
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 65,
+        "limbah_cair_id": 5,
+        "nama_lokasi": "Swalayan Mall/Plaza Jambu Dua",
+        "alamat": "Jl. Jend. A. Yani",
+        "kelurahan_id": 17,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80762,
+          -6.601274
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 66,
+        "limbah_cair_id": 5,
+        "nama_lokasi": "Swalayan Botani Square Bogor",
+        "alamat": "Jl. Raya Pajajaran",
+        "kelurahan_id": 26,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.818,
+          -6.622
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 67,
+        "limbah_cair_id": 5,
+        "nama_lokasi": "Swalayan Mall Ekalokasari Plaza",
+        "alamat": "Jl. Pajajaran",
+        "kelurahan_id": 37,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.787077,
+          -6.595906
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 68,
+        "limbah_cair_id": 5,
+        "nama_lokasi": "Swalayan Plaza Superindo Department Store",
+        "alamat": "Jl. Veteran",
+        "kelurahan_id": 29,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.795933,
+          -6.604801
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 69,
+        "limbah_cair_id": 5,
+        "nama_lokasi": "Swalayan Bogor Trade Mall  ",
+        "alamat": "Jl. Ir. H. Djuanda",
+        "kelurahan_id": 32,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790822,
+          -6.561187
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 70,
+        "limbah_cair_id": 5,
+        "nama_lokasi": "Swalayan Plaza Indah Bogor",
+        "alamat": "Jl. K. H. Shaleh Iskandar",
+        "kelurahan_id": 44,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.771571,
+          -6.558037
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 71,
+        "limbah_cair_id": 5,
+        "nama_lokasi": "Swalayan Super Market Giant Yasmin",
+        "alamat": "Jl.Culan Raya",
+        "kelurahan_id": 67,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796563,
+          -6.589397
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 72,
+        "limbah_cair_id": 5,
+        "nama_lokasi": "Swalayan  Mall Yogya Junction Bogor",
+        "alamat": "Jl. Jendral Sudirman",
+        "kelurahan_id": 25,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799571,
+          -6.60331
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 73,
+        "limbah_cair_id": 5,
+        "nama_lokasi": "Swalayan Yogya Departemen Store",
+        "alamat": "Jl. Surken ",
+        "kelurahan_id": 28,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797171,
+          -6.584376
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 74,
+        "limbah_cair_id": 6,
+        "nama_lokasi": "Pemotongan Hewan Jl. Abdullah M. Nuh Cimanggu",
+        "alamat": "Jl. Abdullah Bin Nuh",
+        "kelurahan_id": 58,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797171,
+          -6.584376
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 75,
+        "limbah_cair_id": 7,
+        "nama_lokasi": "Industri Pelapisan logam PT. Tanah Sumber Makmur",
+        "alamat": "Jl. Pangkalan III km 2,4 Kedung Halang Talang, Bogor",
+        "kelurahan_id": 23,
+        "icon_map": "icon-lc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8201005,
+          -6.5648441
+        ]
+      },
+      "properties": {
+        "lokasiuji_limbah_cair_id": 76,
+        "limbah_cair_id": 8,
+        "nama_lokasi": " IPAL Tegal Gundil",
+        "alamat": "Jalan Pangeran Sogiri Nomor 283 Tanah Baru",
+        "kelurahan_id": 20,
+        "icon_map": "icon-lc.png"
+      }
+    }
+  ]
+}

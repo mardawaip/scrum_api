@@ -1,0 +1,5078 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82453,
+          -6.63389
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 1,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Kec. Bogor Selatan Kel. Pakuan\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": "sumur_resapan-748.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8239,
+          -6.62854
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 2,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Kec. Bogor Timur Kel. Tajur",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>15 Unit</p>\r\n",
+        "foto": "sumur_resapan-717.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81724,
+          -6.61123
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 3,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Kec. Bogor Timur Kel. Katulampa",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": "sumur_resapan-21.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82814,
+          -6.63586
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 4,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 41,
+        "alamat": "Kec. Bogor Timur Kel. Sindang Rasa ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": "sumur_resapan-839.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799,
+          -6.56683
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 6,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 43,
+        "alamat": "Kec. Tanah Sareal Kel. Kebon Pedes",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>18 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74514,
+          -6.5552
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 7,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 61,
+        "alamat": "Kec. Bogor Barat Kel. Balumbang Jaya",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>18 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75368,
+          -6.55555
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 8,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 58,
+        "alamat": "Kec. Bogor Barat Kel. Bubulak",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>4 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78399,
+          -6.5511
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 9,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 52,
+        "alamat": "Kel. Tanah Sareal Kec. Cibadak\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77814,
+          -6.57502
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 10,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 63,
+        "alamat": "Kec. Bogor Barat Kel. Cilendek timur\r\n\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76957,
+          -6.57327
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 11,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 64,
+        "alamat": "Kec. Bogor Barat Kel. Cilendek Barat",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77365,
+          -6.52976
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 12,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 51,
+        "alamat": "Kec. Tanah Sareal Kel. Kayumanis\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79231,
+          -6.5667
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 14,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 44,
+        "alamat": "Kec. Tanah Sareal Kel. Kedung Badak",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7653227,
+          -6.5615352
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 16,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 67,
+        "alamat": " Kec. Bogor Barat Kel. Curug Mekar ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796698,
+          -6.567918
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 17,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 45,
+        "alamat": "Kec. Tanah Sareal Kel. Kedung Jaya",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78176,
+          -6.56901
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 18,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 46,
+        "alamat": "Kec. Tanah Sareal Kel. Kedung Waringin\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7774889,
+          -6.5318028
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 20,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 49,
+        "alamat": "Kec. Tanah Sereal Kel. Mekarwangi\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7837637,
+          -6.6014667
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 21,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 54,
+        "alamat": "Kec. Bogor Barat Kel. Pasir Kuda",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80686,
+          -6.55415
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 22,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 47,
+        "alamat": "Kec. Tanah Sareal Kel. Sukaresmi\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.785975,
+          -6.602816
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 23,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 55,
+        "alamat": "Kec. Bogor Barat Kel. Pasir Jaya ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79458,
+          -6.54952
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 24,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 48,
+        "alamat": "Kec. Tanah Sareal Kel. Sukadamai\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>12 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796698,
+          -6.567918
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 25,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 42,
+        "alamat": "Kec. Tanah Sareal Kel. Tanah Sareal\r\n\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7626537,
+          -6.5708409
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 26,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 62,
+        "alamat": "Kec. Bogor Barat Kel. Semplak",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77733,
+          -6.59551
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 27,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 56,
+        "alamat": "Kec. Bogor Barat Kel. Pasir Mulya ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81187,
+          -6.58061
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 28,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 18,
+        "alamat": "Kec. Bogor Utara Kel. Tegal Gundil\r\n\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>38 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75999,
+          -6.58075
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 29,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 68,
+        "alamat": "Kec. Bogor Barat Kel. Sindang Barang",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>6 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81543,
+          -6.56143
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 30,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 19,
+        "alamat": "Kec. Bogor Utara Kel. Cibuluh\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76823,
+          -6.54269
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 31,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 65,
+        "alamat": "Kec. Bogor Barat Kel. Curug ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82841,
+          -6.56523
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 32,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 21,
+        "alamat": "Kec. Bogor Utara Kel. Ciluar\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79639,
+          -6.5875
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 33,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 30,
+        "alamat": "Kec. Bogor Tengah Kel. Cibogor",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79364,
+          -6.57797
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 34,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 33,
+        "alamat": "Kec. Bogor Barat Kel. Ciwaringin ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82319,
+          -6.58467
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 35,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 22,
+        "alamat": "Kec. Bogor Utara Kel. Cimahpar\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82167,
+          -6.54451
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 36,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 24,
+        "alamat": "Kec. Bogor Utara Kel. Ciparigi\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78428,
+          -6.59031
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 37,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 35,
+        "alamat": "Kec. Bogor Tengah Kel. Kebon Kalapa",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>4 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81667,
+          -6.57783
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 38,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 20,
+        "alamat": "Kec. Bogor Utara Kel. Tanah baru\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77733,
+          -6.59551
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 39,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 29,
+        "alamat": "Kec. Bogor Tengah Kel. Panaragan ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80051,
+          -6.59057
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 40,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 27,
+        "alamat": "Kec. Bogor Tengah Kel. Sempur ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80892,
+          -6.59859
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 41,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 26,
+        "alamat": "Kec. Bogor Tengah Kel. Tegal Lega ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79184,
+          -6.59923
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 42,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Kec. Bogor Tengah Kel. Paledang",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8079767,
+          -6.553279
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 43,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 23,
+        "alamat": "Kec. Bogor Utara Kel. Kedung Halang\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79938,
+          -6.58164
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 44,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 17,
+        "alamat": "Kec. Bogor Utara Kel. Bantarjati\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>29 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806032,
+          -6.606414
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 45,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Kec. Bogor Timur  Kel.  Baranangsiang",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80897,
+          -6.62383
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 46,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Kec. Bogor Selatan Kel. Batutulis\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81699,
+          -6.61129
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 47,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Kec. Bogor Timur Kel. Katulampa",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8145929,
+          -6.6167016
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 48,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 41,
+        "alamat": "Kec. Bogor Timur Kel. Sindangrasa",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83449,
+          -6.63354
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 49,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Kec. Bogor Timur Kel. Sindangsari",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82419,
+          -6.62844
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 50,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Kec. Bogor Timur Kel. Tajur ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82368,
+          -6.62894
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 51,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Kec. Bogor Timur Kel. Sukasari ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84115,
+          -6.66688
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 52,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 10,
+        "alamat": "Kel. Bogor Selatan Kec. Bojongkerta\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.778123,
+          -6.5933921
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 53,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 57,
+        "alamat": "Kec. Boogor Barat Kel. Gunung Batu ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>18 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80717,
+          -6.61684
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 54,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 2,
+        "alamat": "Kec. Bogor Selatan Kel. Bondongan\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79453,
+          -6.6144
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 55,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Kec. Bogor Selatan Kel. Empang\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8393,
+          -6.65213
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 56,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 13,
+        "alamat": "Kec. Bogor Selatan Kel. Harjasari ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>58 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81626,
+          -6.65299
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 58,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 12,
+        "alamat": "Kec. Bogor Selatan Kel. Kertamaya\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81805,
+          -6.62673
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 59,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 6,
+        "alamat": "Kec. Bogor Selatan Kel.  Lawanggintung\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82725,
+          -6.63982
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 60,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 14,
+        "alamat": "Kec. Bogor Selatan Kel. Muara Sari\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78797,
+          -6.62117
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 61,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 9,
+        "alamat": "Kec. Bogor Selatan Kel. Cikaret ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82347,
+          -6.63449
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 62,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Kec. Bogor Selatan Kel. Pakuan\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81304,
+          -6.64139
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 63,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 15,
+        "alamat": "Kec. Bogor Selatan Kel. Genteng ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79412,
+          -6.64949
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 64,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 4,
+        "alamat": "Kec. Bogor Selatan kel. Pamoyanan\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8185,
+          -6.66603
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 65,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 11,
+        "alamat": "Kec. Bogor Selatan Kel. Rancamaya\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79805,
+          -6.6279
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 66,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 7,
+        "alamat": "Kec. Bogor Selatan Kel. Ranggamekar\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>4 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80961,
+          -6.62544
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 67,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Kec. Bogor Selatan Kel. Cipaku\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78635,
+          -6.63568
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 68,
+        "tahun_pengamatan": "2007-01-01",
+        "kelurahan_id": 8,
+        "alamat": "Kec. Bogor Selatan Kel. Mulyaharja\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77115,
+          -6.5562
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 69,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 67,
+        "alamat": "Kec. Bogor Barat Kel. Curug Mekar",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>26 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76823,
+          -6.54385
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 70,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 65,
+        "alamat": "Kec. Bogor Barat Kel. Curug ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>27 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806,
+          -6.606
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 71,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Kec. Bogor timur Kel. Baranangsiang",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>27 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.753676,
+          -6.555552
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 72,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 58,
+        "alamat": "Kec. Bogor Barat Kel. Bubulak ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81667,
+          -6.61138
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 73,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Kec. Bogor Timur Kel. Katulampa",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>25 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83349,
+          -6.63355
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 74,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Kec. Bogor Timur Kel. Sindangsari",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>24 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80634,
+          -6.55413
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 75,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 47,
+        "alamat": "Kec. Tanah Sareal Kel. Sukaresmi",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>27 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8185155,
+          -6.595
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 76,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Kec. Bogor Timur Kel. Sindangrasa ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>24 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80854,
+          -6.61096
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 77,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 37,
+        "alamat": "Kec. Bogor Timur Kel. Sukasari",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>24 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79501,
+          -6.55
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 78,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 48,
+        "alamat": "Kec. Tanah Sareal Kel. Sukadamai",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80076,
+          -6.56434
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 79,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 43,
+        "alamat": "Kec. Tanah Sareal Kel. Kedung Badak ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>27 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82446,
+          -6.62274
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 80,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Kec. Bogor Timur Kel. Katulampa",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79993,
+          -6.59075
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 81,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 27,
+        "alamat": "Kec. Bogor Tengah Kel. Sempur",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82402,
+          -6.6288
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 82,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Kec. Bogor Timur Kel. Tajur",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82213,
+          -6.54511
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 83,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 24,
+        "alamat": "Kec. Bogor Utara Kel. Ciparigi ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>6 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.801862,
+          -6.5668683
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 84,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 23,
+        "alamat": "Kec. Bogor Utara Kel. Kedunghalang",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79638,
+          -6.58664
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 85,
+        "tahun_pengamatan": "2008-01-01",
+        "kelurahan_id": 30,
+        "alamat": "Markas-markas Kodim 0606 di Kota Bogor",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80751,
+          -6.59083
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 86,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Kec. Bogor Tengah Kec. Babakan ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82446,
+          -6.62274
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 87,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Kec. Bogor Timur Kel. Katulampa",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810308,
+          -6.600021
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 88,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 26,
+        "alamat": "Kec. Bogor Tengah Kel. Tegallega",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>12 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8125,
+          -6.59985
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 89,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 26,
+        "alamat": "Kec. Bogor Timur  Kel. Sindangrasa",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78277,
+          -6.53055
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 90,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "alamat": "Kec.Tanah Sareal Kel. Mekarwangi",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80981,
+          -6.62588
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 91,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Kec. Bogor Selatan Kel. Cipaku ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83913,
+          -6.6525
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 92,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 13,
+        "alamat": "Kec. Bogor Selatan Kel. Harjasari ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79772,
+          -6.62818
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 93,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 7,
+        "alamat": "Kec. Bogor Selatan Kab. Ranggamekar",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>13 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80751,
+          -6.59152
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 94,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 28,
+        "alamat": "Kec. Bogor Tengah Kec. Babakan ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>15 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77781,
+          -6.58009
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 95,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Kec. Bogor Barat Kel. Menteng ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77355,
+          -6.57091
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 96,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 63,
+        "alamat": "Kec. Bogor Barat Kel. Cilendek timur",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82797,
+          -6.64004
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 97,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 14,
+        "alamat": "Kec. Bogor Selatan Kel. Muarasari",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76631,
+          -6.57344
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 98,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 64,
+        "alamat": "Kec. Bogor Timur Kel. Cilendek Barat",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82437,
+          -6.63423
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 99,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Kec. Bogor Timur Kel. Pakuan",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7774889,
+          -6.5318028
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 100,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "alamat": "Kec. Tanah Sareal Kel. Mekarwangi",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.804877,
+          -6.6166265
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 101,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 6,
+        "alamat": "Kec. Bogor Selatan Kel. Lawanggintung",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>15 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79518,
+          -6.61441
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 102,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Kec. Bogor Selatan  Kel. Empang ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80737,
+          -6.61723
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 103,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 2,
+        "alamat": "Kec. Bogor Selatan Kel. Bondongan ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80682,
+          -6.59083
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 104,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 31,
+        "alamat": " Kec. Bogor Tegah Kel. Babakan",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>15 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79827,
+          -6.62821
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 105,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 7,
+        "alamat": "Kec. Bogor Selatan Kel. Ranggamekar ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82371,
+          -6.63432
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 106,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Kec. Bogor Timur kel. Pakuan\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82399,
+          -6.62886
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 107,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Kec. Bogor Timur Kel. Tajur\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>10 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8397,
+          -6.6403
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 108,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 41,
+        "alamat": "Kec. Bogor Timur Kel. Sindangrasa \r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81659,
+          -6.61138
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 109,
+        "tahun_pengamatan": "2014-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Kec. Bogor Timur Kel. Katulampa \r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>20 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80888,
+          -6.62357
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 110,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. Batutulis Gg Lurah  Rt, 06/04\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:245px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"height:27px; width:245px\">Pemilik Bedi Jubaedi Unit 1</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+        "foto": "sumur_resapan-313.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80745,
+          -6.61918
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 111,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. Batu Tulis Gg. Mekarjaya II Rt 04/08\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Maedih 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79501,
+          -6.60749
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 112,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 34,
+        "alamat": "Kp. Padasuka Rt 001/012 Kel. Gudang\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Tabrani 3 Unit</p>\r\n",
+        "foto": "sumur_resapan-396.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80888,
+          -6.62357
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 113,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. Batu Tulis, Balekambang Rt 02/04\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Nining unit 1</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809,
+          -6.615
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 114,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. BatuTulis Gg. Mekarjaya II Rt 04/08\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Dedi Suardi 1 Unit&nbsp;</p>\r\n",
+        "foto": "sumur_resapan-528.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809443,
+          -6.615834
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 115,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. BatuTulis Gg. Mekarjaya II Rt 04/08\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Ata Kusnadi 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.803392,
+          -6.610498
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 116,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 34,
+        "alamat": "Kb. Pala Rt 03/10\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik 1 Unit<br />\r\n&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80943,
+          -6.62357
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 117,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. BatuTulis Gg. Mekarjaya II Rt 03/08\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik&nbsp;Wi Hong Nio 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79501,
+          -6.6075
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 118,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 34,
+        "alamat": "Gg. Aut Rt 001/005\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Marpuad 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80821,
+          -6.62108
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 119,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. BatuTulis Gg. Mekarjaya II Rt 03/08\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Siti Holiyah 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809,
+          -6.623
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 120,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. BatuTulis Gg. Mekarjaya II Rt 03/08\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Sahri 1 Unit&nbsp;</p>\r\n",
+        "foto": "sumur_resapan-854.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8064435,
+          -6.6174528
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 121,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. Batu Tulis Gg. Mekarjaya II Rt 02/08\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Indrayana 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8077,
+          -6.62063
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 122,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. Batu Tulis Gg. Jaya Tunggal Rt 02/03\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik M.Taufik 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79518,
+          -6.6075
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 123,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 0,
+        "alamat": "Kebon Pala Rt 001/11\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Asep Sugandi 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79501,
+          -6.60711
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 124,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 34,
+        "alamat": "Jl. Cingcau Rt 01/02\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Joppy 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75768,
+          -6.56802
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 125,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 58,
+        "alamat": "Kp. Bubulak Rt 02/07\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Ali Aeh 1 Unit</p>\r\n",
+        "foto": "sumur_resapan-312.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75152,
+          -6.56944
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 126,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 58,
+        "alamat": "SDN Bubulak I\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Yeti Kasianah 2 Unit</p>\r\n",
+        "foto": "sumur_resapan-675.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797,
+          -6.575
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 127,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 42,
+        "alamat": "Kantor BPLH Kota Bogor\r\nJl. Senam No. 2\r\n\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7542626,
+          -6.5602085
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 128,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 58,
+        "alamat": "Kp. Bubulak Rt 01/07\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Soliah 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75355,
+          -6.55653
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 129,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 58,
+        "alamat": "Kp. Bubulak Rt 03/07\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Kp. Bubulak Rt 03/07</p>\r\n",
+        "foto": "sumur_resapan-882.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75326,
+          -6.55928
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 130,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 58,
+        "alamat": "Kp. Bubulak Rt 04/07\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik H.Irwansyah</p>\r\n",
+        "foto": "sumur_resapan-404.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.75768,
+          -6.56802
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 131,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 58,
+        "alamat": "Kp. Bubulak Rt 03/07\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik H. Serbibi. H</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.753662,
+          -6.557864
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 132,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 0,
+        "alamat": "Kp. Bubulak Rt 02/07\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Juriah 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809222,
+          -6.587991
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 133,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Lodaya II, Rt. 02/2",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Ibu Endah 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809222,
+          -6.587991
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 134,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Lodaya II, Rt. 02/2",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bpk. Suganda 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.809222,
+          -6.587991
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 135,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Lodaya II, Rt. 02/2",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bpk. Aceng 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8091128,
+          -6.5889494
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 136,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Lodaya II, Rt. 03/2\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bpk. Yudi 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80151,
+          -6.58405
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 137,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Guntur, Rt. 04/3",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807881,
+          -6.596572
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 138,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Malabar, Rt. 02/7",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kantor Kelurahan Babakan&nbsp;1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80674,
+          -6.59334
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 139,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Lodaya II, Rt. 02/7",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Babakan 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806021,
+          -6.60534
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 140,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl. Riau, Rt. 01/03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kelurahan Baranangsiang 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8105516,
+          -6.6101625
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 141,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl. Ciburial, Rt. 03/04",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Yayasan Muhammadiyah 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81825,
+          -6.61547
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 142,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl. Bantarkemang Rt. 01/07",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Bantar Kemang III 3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8206511,
+          -6.6148458
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 143,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl. Bantarkemang Rt. 01/07",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Bantar Kemang VI 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8208064,
+          -6.6039918
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 144,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl. Bantarkemang Rt. 03/07",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Bantar Kemang II 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8205753,
+          -6.6148646
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 145,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl. Bantarkemang Rt. 02/13",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80963,
+          -6.62562
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 146,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Rt. 5/5",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bpk. Indra 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81032,
+          -6.62698
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 147,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Rt. 01/15",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik&nbsp;Bapak Said 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81041,
+          -6.62698
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 148,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Rt. 01/15",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik&nbsp;Bapak Uko 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81006,
+          -6.62929
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 149,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Rt. 01/15",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Encep 1&nbsp;Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81032,
+          -6.62835
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 150,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Rt. 01/15",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bpk. AA 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81006,
+          -6.62895
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 151,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Rt. 01/15",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bpk. Enoh 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80998,
+          -6.62997
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 152,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Rt. 02/15",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Masjid Jami 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81026,
+          -6.62852
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 153,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Rt. 02/15",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Pa Tuhi 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.789325,
+          -6.583855
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 154,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl. Paledang, Rw. 01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Masjid Baitul Rahman 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80886,
+          -6.62315
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 155,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Batutulis Gg. Sekolah Rt. 01  Rw.02",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Aisah Chaerani 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80869,
+          -6.62247
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 156,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Batutulis Gg. Sekolah Rt. 02  Rw.02",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Suganda 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79201,
+          -6.59922
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 157,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl. Sekolah Dalam 3, Rw. 01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Pak Senen 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80895,
+          -6.62221
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 158,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jaya Tunggal Rt. 02  Rw. 03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik&nbsp;Zulkarnaen 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8074,
+          -6.62016
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 159,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jaya Tunggal Rt. 04  Rw. 03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Dayat 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80757,
+          -6.62016
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 160,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Gg. Cempaka Warna IV, Rt.01 Rw.05",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Yeni 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78961,
+          -6.59734
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 161,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Kebon Manggis, Rt. 04",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Lap. Bulu Tangkis 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80749,
+          -6.62008
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 162,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Gg. Cempaka Warna IV, Rt.02 Rw.05",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Siti Juwariah 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80648,
+          -6.62187
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 163,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Batutulis Gg. Saluyu, Rt. 03  Rw. 06",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Suparman 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80974,
+          -6.61965
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 164,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Batutulis Kp. Sawah, Rt. 05  Rw. 06",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Nanang Suparman 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7890172,
+          -6.5818751
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 165,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Pulo Empang, Rw. 05",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Panti Werda 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78902,
+          -6.58188
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 166,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 33,
+        "alamat": "Pulo Empang, Rw. 05",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kampung Nusa 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7936,
+          -6.60109
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 167,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Kebon Manggis, Rt.01/10",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Yayasan Yasiba 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79274,
+          -6.60097
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 168,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Kebon Manggis, Rt.02/10",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik H. Toha 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79308,
+          -6.59884
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 169,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Kebon Manggis, Rw. 11",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pos Kamling 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78832,
+          -6.59746
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 170,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Kebon Manggis, Rt.01/12\t\r\n\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Masjid Nur Amalia 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81733,
+          -6.61144
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 171,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Gg. Bah Pati Parung Banteng, \r\nRt. 03/1",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Pak H. Edi 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81853,
+          -6.6137
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 172,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Gg. Bah Pati Parung Banteng, \r\nRt. 03/1\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Jl. Umum Posyandu 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82068,
+          -6.61172
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 173,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Gg. Bah Pati Parung Banteng, \r\nRt. 03/1\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Pak Eman 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81926,
+          -6.61071
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 174,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Jalan Parung Banteng",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Pak Uwai 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81677,
+          -6.60991
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 175,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Blok C.4 No. 20, Rt. 2  Rw. 15",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Mutiara Bogor Raya</p>\r\n\r\n<p>Perum Sevila</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81627,
+          -6.6115
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 176,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Blok F.6 No. 12, Rt. 01 Rw. 16\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Posyandu Komplek Mutiara Bogor Raya</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82059,
+          -6.60745
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 177,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Blok F.1 No. 12, Rt. 01 Rw. 16",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Masjid Al Madinah 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7933,
+          -6.61538
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 178,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 01/05",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Adun</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79441,
+          -6.61666
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 179,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 05/05",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Adun 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7954,
+          -6.61743
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 180,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 06/06",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Gedung Serbaguna</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79467,
+          -6.61503
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 181,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 02/08",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Siti Fatimah 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79694,
+          -6.61602
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 182,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rw. 16",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Masjid Al - Askariyah 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79849,
+          -6.61594
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 183,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 01/16",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Ujang 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79832,
+          -6.61585
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 184,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 01/17",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Ukar 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79574,
+          -6.6156
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 185,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 02/20",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Yayat/Bapak Haerudin 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806772,
+          -6.620299
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 186,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. Drs. Saleh Danasasmita, \r\nRt. 01  Rw. 07\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Rahmat Waluyo 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8105,
+          -6.62297
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 187,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. Drs. Saleh Danasasmita, \r\nRt. 03  Rw. 07\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Oki 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8103,
+          -6.62383
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 188,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Gg. Mekar Jaya II, Rt. 01  Rw. 08",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Ujang Ahmad 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80956,
+          -6.62324
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 189,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Gg. Mekar Jaya II, Rt. 02  Rw. 08",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Pipih 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80479,
+          -6.62527
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 190,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Kp. Kebon Kelapa, Rt. 01  Rw. 09",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Lia 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81066,
+          -6.62507
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 191,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Kp. Kebon Kelapa, Rt. 02  Rw. 09",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Darsono 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80881,
+          -6.62129
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 192,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Kp. Batakal, Rt. 01  Rw. 10",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Masjid Al &ndash; Hidayah 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81108,
+          -6.62246
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 193,
+        "tahun_pengamatan": "2012-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Kp. Batakal, Rt. 04  Rw. 10",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pos Satpam Perumahan Pondok Permai 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8176593,
+          -6.5568558
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 198,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Komplek Villa Bogor Indah",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SMPN 18 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83626,
+          -6.63965
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 199,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Unitex Jl. Flamboyan Rw. 5",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Posyandu Flamboyan 1, 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8212163,
+          -6.6323711
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 200,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Jl. Dahlia, Rt. 04 Rw. 03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kelurahan Pakuan 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8233167,
+          -6.6321068
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 201,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Jl. Dahlia, Rt. 01 Rw. 03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Pakuan 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8145929,
+          -6.6167016
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 202,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 41,
+        "alamat": "Jl. PD. Hasan",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kelurahan Sindangrasa 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8145929,
+          -6.6167016
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 203,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 41,
+        "alamat": "Rw. 09",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Sindangrasa 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.822275,
+          -6.631934
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 204,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Jl. Dahlia 2 No. 06, Rt. 01 Rw. 03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>TK Pakuan 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82457,
+          -6.63312
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 205,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Kp. Gandok, Rt. 01 Rw. 05",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pos Yandu Cempaka 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83995,
+          -6.63791
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 206,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Rw. 09",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Puskesmas 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82414,
+          -6.63483
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 207,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Rw. 05",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Masjid Assyhada 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82811,
+          -6.63619
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 208,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Jl. Dahlia, Rt. 01 Rw. 03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Jl. Umum 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83586,
+          -6.63558
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 209,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Rt. 03 Rw. 03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Ujang 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80665,
+          -6.58964
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 210,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Tangkuban Perahu",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Jalan Umum 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83559,
+          -6.6356
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 211,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Rt. 03 Rw. 03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Musholah Miftahul Jannah 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80511,
+          -6.58947
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 212,
+        "tahun_pengamatan": "2015-09-04",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Gunung Gede\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Depan Rumah Bapak Edi 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.801356,
+          -6.586072
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 213,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Burangrang",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8027377,
+          -6.5862716
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 214,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Papandayan",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8039316,
+          -6.5864857
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 215,
+        "tahun_pengamatan": "2015-09-04",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Papandayan",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SD Papandayan 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83087,
+          -6.63596
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 216,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 41,
+        "alamat": "Rt. 04 Rw. 03\r\n",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Soma 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8077189,
+          -6.5692103
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 217,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Pajajaran",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Gunung Gede 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806919,
+          -6.5830314
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 218,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Pajajaran",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SMKN 3 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8032,
+          -6.57233
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 219,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "alamat": "Kp. Setu Asem, Rt. 02 Rw. 14",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79944,
+          -6.57276
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 220,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "alamat": "Kp. Pabuaran Rt. 04  Rw.02",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79738,
+          -6.57242
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 221,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "alamat": "Kp. Pabuaran Rt. 03  Rw.02",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Mesjid 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7979,
+          -6.57173
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 222,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "alamat": "Kp. Pabuaran Rt. 02  Rw.02",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79961,
+          -6.5731
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 223,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "alamat": "Rt.03 Rw.04",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>PAUD Nurul Ilmi 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79755,
+          -6.57344
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 224,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 49,
+        "alamat": "Rt.03 Rw.14",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Kencana 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76703,
+          -6.57342
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 225,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 64,
+        "alamat": "Rw. 10",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7724,
+          -6.57105
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 226,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 64,
+        "alamat": "Rw. 10",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Puskesmas Cilendek Timur 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76562,
+          -6.57037
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 227,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 64,
+        "alamat": "Rw 10 ",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pos Yandu Cempaka 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77304,
+          -6.56723
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 228,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 63,
+        "alamat": "Rw. 10",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Cilendek Timur I 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81459,
+          -6.63253
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 229,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 5,
+        "alamat": "Rw. 10",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Posyandu Ros 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77305,
+          -6.56994
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 230,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 63,
+        "alamat": "Rw. 07",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Pabuaran 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83089,
+          -6.64024
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 231,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 14,
+        "alamat": "Jl. Kp. Anyar, Rt.02 Rw. 6",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Muarasari 3, 3 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7735228,
+          -6.5682745
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 232,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 63,
+        "alamat": "Rw. 05",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Cilendek Timur II 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80408,
+          -6.61539
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 233,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 2,
+        "alamat": "Rt. 02 Rw. 14",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Persatuan Umat Islam (PUI) 4 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80596,
+          -6.61744
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 234,
+        "tahun_pengamatan": "2015-09-04",
+        "kelurahan_id": 2,
+        "alamat": "Rt. 02 Rw. 14",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80631,
+          -6.61624
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 235,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 2,
+        "alamat": "Rt. 01 Rw. 06",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80408,
+          -6.61641
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 236,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 2,
+        "alamat": "Rt. 01 Rw. 15",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83789,
+          -6.6512
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 237,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 13,
+        "alamat": "Rt. 01 Rw. 01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Hartono 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8391,
+          -6.65222
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 238,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 13,
+        "alamat": "Rt. 02 Rw. 01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Yusuf 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83601,
+          -6.65239
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 239,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 13,
+        "alamat": "Rt. 03 Rw. 12",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Yayasan Baitulmukaromah 3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84236,
+          -6.65256
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 240,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 13,
+        "alamat": "Rt. 03 Rw. 12",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pos Yandu Semangka 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8110105,
+          -6.6142379
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 241,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 14,
+        "alamat": "Jl. Kp. Anyar, Rt.02 Rw. 6",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Muarasari 1, 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83807,
+          -6.65273
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 242,
+        "tahun_pengamatan": "2015-09-04",
+        "kelurahan_id": 13,
+        "alamat": "Jl. Ry HE Sukma, Rt. 03 Rw. 12",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Ponpes Bina Madani 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82789,
+          -6.64007
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 243,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 14,
+        "alamat": "Rw. 6 Jl. Kp. Anyar, Rt.02",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kelurahan Muarasari 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82836,
+          -6.64059
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 244,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 14,
+        "alamat": "Rt. 05 Rw. 6",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Gang Cenderawasih 3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82763,
+          -6.64161
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 245,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 14,
+        "alamat": "Rt. 01, Rw. 6",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Isak Suryana 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8126172,
+          -6.6231106
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 246,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 6,
+        "alamat": "Jl. Lawanggintung",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Lawanggintung 1, 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8124,
+          -6.62099
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 247,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl. Lawanggintung",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Lawanggintung 2</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81883,
+          -6.62733
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 248,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 6,
+        "alamat": "Jl. Lawanggintung",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Lawanggintung 4, 3 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81797,
+          -6.62759
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 249,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl. Skip, Rt. 01 Rw. 01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Posyandu Sedap Malam 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81789,
+          -6.62536
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 250,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl. Skip, Rt. 01 Rw. 01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Bapak Irvan Darta 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81767,
+          -6.62474
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 251,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Rt. 1 Rw. 1",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak Iskan 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81874,
+          -6.62523
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 252,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 6,
+        "alamat": "Rt. 1 Rw. 1",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Pemilik Bapak slamet 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8123973,
+          -6.6209906
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 253,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 6,
+        "alamat": "Jl. Lawanggintung",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kantor Kelurahan Lawanggintung 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7980279,
+          -6.6349612
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 254,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 7,
+        "alamat": "Jl. Pamoyanan",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SMPN 13, 4 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79827,
+          -6.62689
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 255,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 7,
+        "alamat": "Jl. Jaya Sari No. 5",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Rangga Mekar, 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80274,
+          -6.62962
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 256,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 7,
+        "alamat": "Jl. Jaya Sari No. 1",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SMP PGRI 11, 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8345547,
+          -6.6630747
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 257,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Jl. Medika",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kelurahan Menteng 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7787,
+          -6.57885
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 258,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Koplek RS. MM, Rt. 02  Rw.01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Masjid Nurul Ikhlas 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78008,
+          -6.57845
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 259,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Koplek RS. MM, Rt. 01  Rw.01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Koplek RS. MM</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78111,
+          -6.57846
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 260,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Koplek RS. MM, Rt. 03  Rw.01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Komplek RS. MM 1 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77733,
+          -6.57608
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 261,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Rt. 03, 04, 05 Rw. 11",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kamp. Pemutihan</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78282,
+          -6.57954
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 262,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Rt.01 Rw. 08",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Kampung Pertanian 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77064,
+          -6.571
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 263,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Jl. Brigjen H. Saptaji",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Cilendek Barat II, 4 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76686,
+          -6.57102
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 264,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 64,
+        "alamat": "Jl. Nasedin, Rt. 01 Rw. 01",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SD Yayasan Darma Ibu (YDI) 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76592,
+          -6.56981
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 265,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 64,
+        "alamat": "Cemplang, Rt. 01 Rw. 10",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Cemplang 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76892,
+          -6.57471
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 266,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 64,
+        "alamat": "Jl. Cendana, Rt. 03 Rw. 03",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>SDN Cilendek IV, 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80909,
+          -6.61581
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 267,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 2,
+        "alamat": "Rt. 02 Rw. 14",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Persatuan Umat Islam (PUI) 4 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80737,
+          -6.6153
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 268,
+        "tahun_pengamatan": "2015-09-07",
+        "kelurahan_id": 2,
+        "alamat": "Rt. 02 Rw. 14",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Jalan Umum 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80583,
+          -6.61668
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 269,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 2,
+        "alamat": "Rt. 01 Rw. 06",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Jalan Umum 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79686,
+          -6.61649
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 270,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 02 Rw. 07",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Musholla Al-Ikhlas 2 Unit Musollah Al-Ihlas</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79784,
+          -6.6154
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 271,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 03 Rw. 20",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Bapak Ujang 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79821,
+          -6.6164
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 272,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 03 Rw. 20",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Bapak Acang 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79772,
+          -6.61542
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 273,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 03 Rw. 20",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Bapak Udin 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79591,
+          -6.61824
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 274,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 04 Rw. 16",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Bapak Syarief 2 Unit</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79519,
+          -6.61353
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 275,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 03 Rw. 09",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Gg. Mesjid 2 Unit&nbsp;</p>\r\n",
+        "foto": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79651,
+          -6.61837
+        ]
+      },
+      "properties": {
+        "sumur_resapan_id": 276,
+        "tahun_pengamatan": "2013-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Rt. 03 Rw. 09",
+        "icon_map": "icon-sumur_resapan.png",
+        "keterangan": "<p>Ibu Sutri 1 Unit</p>\r\n",
+        "foto": ""
+      }
+    }
+  ]
+}

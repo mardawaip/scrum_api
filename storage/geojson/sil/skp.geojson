@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8224213,
+          -6.6411834
+        ]
+      },
+      "properties": {
+        "skp_id": 51,
+        "nama_lokasi": "SMKN 4 Bogor",
+        "kelurahan_id": 14,
+        "icon_map": "icon-sehati.png",
+        "keterangan": "<p>Kel.Muarasari Kec.Bogor Selatan</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2012-01-01",
+        "kategori": "Sehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8388658,
+          -6.6733528
+        ]
+      },
+      "properties": {
+        "skp_id": 52,
+        "nama_lokasi": "SMPN 17 Bogor",
+        "kelurahan_id": 13,
+        "icon_map": "icon-sehati.png",
+        "keterangan": "<p>Kel.Harjasari Kec.Bogor Selatan</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2012-01-01",
+        "kategori": "Sehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.760464,
+          -6.5781964
+        ]
+      },
+      "properties": {
+        "skp_id": 53,
+        "nama_lokasi": "Sekolah BBS",
+        "kelurahan_id": 68,
+        "icon_map": "icon-sehati.png",
+        "keterangan": "<p>Kel.Sindangbarang kec.Bogor Selatan</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2013-01-01",
+        "kategori": "Sehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8236443,
+          -6.6113837
+        ]
+      },
+      "properties": {
+        "skp_id": 54,
+        "nama_lokasi": "SMPN 18 Bogor",
+        "kelurahan_id": 39,
+        "icon_map": "icon-sehati.png",
+        "keterangan": "<p>Kel.Katulampa Kec.Bogor Timur</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2013-01-01",
+        "kategori": "Sehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7956723,
+          -6.5536937
+        ]
+      },
+      "properties": {
+        "skp_id": 55,
+        "nama_lokasi": "SD Creativa",
+        "kelurahan_id": 47,
+        "icon_map": "icon-sehati.png",
+        "keterangan": "<p>Kel.Sukaresmi Kec.Tanah Sareal</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2015-10-29",
+        "kategori": "Sehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7802613,
+          -6.5669947
+        ]
+      },
+      "properties": {
+        "skp_id": 56,
+        "nama_lokasi": "SMP Bina Greha",
+        "kelurahan_id": 46,
+        "icon_map": "icon-sehati.png",
+        "keterangan": "<p>Kel.Kedung Waringin Kec.Tanah Sareal</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2013-01-01",
+        "kategori": "Sehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8142,
+          -6.65317
+        ]
+      },
+      "properties": {
+        "skp_id": 57,
+        "nama_lokasi": "Kelurahan Bojongkerta",
+        "kelurahan_id": 10,
+        "icon_map": "icon-kehati.png",
+        "keterangan": "<p>Kel.Bojongkerta Kec.Bogor Selatan</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2013-01-01",
+        "kategori": "Kehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8236443,
+          -6.6113837
+        ]
+      },
+      "properties": {
+        "skp_id": 58,
+        "nama_lokasi": "Kelurahan Tanah Baru",
+        "kelurahan_id": 20,
+        "icon_map": "icon-kehati.png",
+        "keterangan": "<p>Kel.Tanah Baru kec.Bogor Utara</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2013-01-01",
+        "kategori": "Kehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8142,
+          -6.65317
+        ]
+      },
+      "properties": {
+        "skp_id": 59,
+        "nama_lokasi": "Kelurahan kertamaya",
+        "kelurahan_id": 12,
+        "icon_map": "icon-kehati.png",
+        "keterangan": "<p>Kel.Kertamaya Kec.Bogor Selatan</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2013-01-01",
+        "kategori": "Kehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78725,
+          -6.59008
+        ]
+      },
+      "properties": {
+        "skp_id": 60,
+        "nama_lokasi": "Kelurahan kebon Kalapa",
+        "kelurahan_id": 35,
+        "icon_map": "icon-kehati.png",
+        "keterangan": "<p>Kel.kebon Kalapa Kec.Bogor Tengah</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2013-01-01",
+        "kategori": "Kehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.760464,
+          -6.5781964
+        ]
+      },
+      "properties": {
+        "skp_id": 61,
+        "nama_lokasi": "Kelurahan Situ Gede",
+        "kelurahan_id": 59,
+        "icon_map": "icon-kehati.png",
+        "keterangan": "<p>Kel.Situ Gede Kec.Bogor Barat</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2014-01-01",
+        "kategori": "Kehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77395,
+          -6.57098
+        ]
+      },
+      "properties": {
+        "skp_id": 62,
+        "nama_lokasi": "Kelurahan Cilendek Timur",
+        "kelurahan_id": 63,
+        "icon_map": "icon-kehati.png",
+        "keterangan": "<p>kel.Cilendek Timur kec.Bogor Barat</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2014-01-01",
+        "kategori": "Kehati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8406315,
+          -6.649192
+        ]
+      },
+      "properties": {
+        "skp_id": 63,
+        "nama_lokasi": "PT.Nutrifood Indonesia",
+        "kelurahan_id": 40,
+        "icon_map": "icon-pemerhati.png",
+        "keterangan": "<p>Kel.Sindang sari Kec.Bogor Selatan</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2012-01-01",
+        "kategori": "Pemerhati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8078005,
+          -6.6491001
+        ]
+      },
+      "properties": {
+        "skp_id": 64,
+        "nama_lokasi": "PT.Boehringer Ingleheim",
+        "kelurahan_id": 6,
+        "icon_map": "icon-pemerhati.png",
+        "keterangan": "<p>Kel.Lawanggintung Kec.Bogor Selatan</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2012-01-01",
+        "kategori": "Pemerhati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793852,
+          -6.5778333
+        ]
+      },
+      "properties": {
+        "skp_id": 65,
+        "nama_lokasi": "PT. Good Year Indonesia",
+        "kelurahan_id": 42,
+        "icon_map": "icon-pemerhati.png",
+        "keterangan": "<p>Kel.Tanah Sareal Kec.Tanah Sareal</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2013-01-01",
+        "kategori": "Pemerhati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8178674,
+          -6.6250657
+        ]
+      },
+      "properties": {
+        "skp_id": 66,
+        "nama_lokasi": "PT.Coats Rejo",
+        "kelurahan_id": 16,
+        "icon_map": "icon-pemerhati.png",
+        "keterangan": "<p>Kel.Pakuan Kec.Bogor Selatan</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2013-01-01",
+        "kategori": "Pemerhati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8289675,
+          -6.6361712
+        ]
+      },
+      "properties": {
+        "skp_id": 67,
+        "nama_lokasi": "PT.Unitex",
+        "kelurahan_id": 38,
+        "icon_map": "icon-pemerhati.png",
+        "keterangan": "<p>Kel.Tajur Kec.Bogor Timur</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2014-01-01",
+        "kategori": "Pemerhati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7956723,
+          -6.5536937
+        ]
+      },
+      "properties": {
+        "skp_id": 68,
+        "nama_lokasi": "PT.Goodray",
+        "kelurahan_id": 40,
+        "icon_map": "icon-pemerhati.png",
+        "keterangan": "<p>Kel.Sindangsari Kec.Bogor Timur</p>\r\n",
+        "foto": "",
+        "tahun_pendataan": "2014-01-01",
+        "kategori": "Pemerhati"
+      }
+    }
+  ]
+}

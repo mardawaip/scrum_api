@@ -1,0 +1,2325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8022779,
+          -6.6146268
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 1,
+        "nama_kepemilikan": "PT. GRAHA ANDRASENTRA PROPERTI",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 8,
+        "alamat": "Bogor Nirwana Residence, Jl. Dreded Pahlawan",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82575,
+          -6.59938
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 2,
+        "nama_kepemilikan": "PT. SEJAHTERA EKA GRAHA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl.Danau Bogor Raya ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8282545,
+          -6.6355256
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 3,
+        "nama_kepemilikan": "PT. KARYA SEMESTA INVESTAMA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl.Ry.Tajur 109",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8220882,
+          -6.6298238
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 4,
+        "nama_kepemilikan": "PT.EKA SARI LORENA ",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl.Ry.Tajur 106",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8115151,
+          -6.6117473
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 5,
+        "nama_kepemilikan": "CV. RIRIN RURI / HOTEL RIRIN",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 37,
+        "alamat": "Jl.Ciburial Indah",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8044864,
+          -6.5572458
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 6,
+        "nama_kepemilikan": "RM. PONDOK BAMBU TIRZA I",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 24,
+        "alamat": "Jl.Sholeh Iskandar Kedung Badak",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7887557,
+          -6.5844706
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 7,
+        "nama_kepemilikan": "PONDOK  NIRMALA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 42,
+        "alamat": "Jl.Baru  Tanah Sareal",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8096131,
+          -6.571112
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 8,
+        "nama_kepemilikan": "PT.AUTO PIT / PT. PUTRA MAS MA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 17,
+        "alamat": "Jl.Ry.Pajajaran",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81645,
+          -6.61659
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 9,
+        "nama_kepemilikan": "PT.ASTRA DIV. ISUZU",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Jl.Ry.Pajajaran No.22 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82914,
+          -6.63838
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 10,
+        "nama_kepemilikan": "SPBU 34. 16119 ( Kayu Manis )",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 51,
+        "alamat": "Jl. KH Soleh Iskandar, Kayu Manis",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80906,
+          -6.62366
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 11,
+        "nama_kepemilikan": "SILIWANGI SERVICE",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl.Batu Tulis",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8340266,
+          -6.63933
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 12,
+        "nama_kepemilikan": "PURI  MIRA / CV. TUNGGAK MINAT",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl.Ry.Tajur",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8215541,
+          -6.6267306
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 13,
+        "nama_kepemilikan": "HOTEL MONALISA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Jl.Ry.Tajur 30",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8189162,
+          -6.6301222
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 14,
+        "nama_kepemilikan": "PIONER TRADING COMPANY (VILLA  DUTA)",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Jl.Rena Wijaya No. 09",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8183383,
+          -6.623198
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 15,
+        "nama_kepemilikan": "PT.ASTRA INT. (AUTO 2000)",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 16,
+        "alamat": "Jl.Ry.Siliwangi",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7945338,
+          -6.5994187
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 16,
+        "nama_kepemilikan": "BCA BANK",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl.Ir.H.Juanda No.28 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7936,
+          -6.59186
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 17,
+        "nama_kepemilikan": "EVITA  HOTEL",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 25,
+        "alamat": "Jl.Sawo Jajar No.5 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.800807,
+          -6.5884916
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 18,
+        "nama_kepemilikan": "PANGRANGO I",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl.Babakan",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7695551,
+          -6.5832958
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 19,
+        "nama_kepemilikan": "SPBU 34.16103 ( Loji )",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 68,
+        "alamat": "Jl.Sindang Barang, Loji",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8044097,
+          -6.5940905
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 20,
+        "nama_kepemilikan": "PANGRANGO  II",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl.Pajajaran ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8052,
+          -6.6022014
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 21,
+        "nama_kepemilikan": "PMI",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 26,
+        "alamat": "Jl.Ry.Pajajaran ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.792348,
+          -6.5906748
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 22,
+        "nama_kepemilikan": "PERUMKA DIPO TRAKSI BGR",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl.Kapten Muslihat",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79195,
+          -6.59919
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 23,
+        "nama_kepemilikan": "BNI 46",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl.Ir.H.Juanda No.52",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80643,
+          -6.56778
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 24,
+        "nama_kepemilikan": "PT.BINA PAPAN",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 52,
+        "alamat": "Jl.Ry.Baru Cibadak ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79415,
+          -6.59458
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 25,
+        "nama_kepemilikan": "HOTEL  SALAK",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl.Ir.H.Juanda No.8",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7971,
+          -6.58849
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 26,
+        "nama_kepemilikan": "HOTEL NEW MIRAH",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 30,
+        "alamat": "Jl.Pajajaran",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79304,
+          -6.59628
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 27,
+        "nama_kepemilikan": "HOTEL MIRAH SANTIKA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl.Dewi Sartika",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8154007,
+          -6.5879188
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 28,
+        "nama_kepemilikan": "RS.AZRA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 18,
+        "alamat": "Jl.Ry.Pajajaran",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77974,
+          -6.56114
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 29,
+        "nama_kepemilikan": "SPBU 34. 16116 ( Soleh Iskanda",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 52,
+        "alamat": "Jl. KH Soleh Iskandar",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8019239,
+          -6.6153304
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 30,
+        "nama_kepemilikan": "BANK PERMATA Tbk.(BANK BALI)",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl.Kapten Muslihat",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8050423,
+          -6.5974521
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 31,
+        "nama_kepemilikan": "HOTEL PERMATA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 26,
+        "alamat": "Jl.Raya Pajajaran",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8350306,
+          -6.6402639
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 32,
+        "nama_kepemilikan": "SPBU 34. 16105 ( Tajur )",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl. Raya Tajur No. 251",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80854,
+          -6.62078
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 33,
+        "nama_kepemilikan": "PT.FAST FOOD INDONESIA (KFC)",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 37,
+        "alamat": "Jl.Pajajaran",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8226248,
+          -6.6270391
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 34,
+        "nama_kepemilikan": "GALAXY THEATRE",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl.Raya Tajur \r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810366,
+          -6.608573
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 35,
+        "nama_kepemilikan": "HOTEL RAJA IN",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl.Pajajaran No.89 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83399,
+          -6.64304
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 36,
+        "nama_kepemilikan": "HOTEL MARGA JAYA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 14,
+        "alamat": "Jl.Ashari Jaya 2/15",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79067,
+          -6.60137
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 37,
+        "nama_kepemilikan": "GUMATI RESTORAN",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl.Paledang No.26-28 \r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8079168,
+          -6.5890946
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 38,
+        "nama_kepemilikan": "PT. TELKOM ",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 18,
+        "alamat": "Jl.Raya Pajajaran No.38\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.843258,
+          -6.64795
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 39,
+        "nama_kepemilikan": "HOTEL MAWAR SARI",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Jl.Raya Wangun \r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7909671,
+          -6.5965149
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 40,
+        "nama_kepemilikan": "SINAR MATAHARI BOGOR",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl.Kapten Muslihat \r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.844401,
+          -6.672706
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 41,
+        "nama_kepemilikan": "PT.GHALIA INDONESIA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 10,
+        "alamat": "Jl.Ranca Maya Km.1 Warung Nangka ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8122029,
+          -6.5644431
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 42,
+        "nama_kepemilikan": "RM PONDOK BAMBU TIRZA III",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 19,
+        "alamat": "Jl.Raya Kedung Halang ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79978,
+          -6.58128
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 43,
+        "nama_kepemilikan": "SETIA JAYA MOBILINDO",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 17,
+        "alamat": "Jl. Raya Padjajaran, Rt 01 / Rw 03. Bantarjati\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8054343,
+          -6.5884088
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 44,
+        "nama_kepemilikan": "PANGRANGO III",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 19,
+        "alamat": "Jl.Raya Pajajaran \r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84714,
+          -6.64559
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 45,
+        "nama_kepemilikan": "TAPIOKA KUJANG",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Jl.Raya Ciluar Sukaraja\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84517,
+          -6.65166
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 46,
+        "nama_kepemilikan": "PT.SSK /PT.ENSEVAL PUTERA MEGA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 13,
+        "alamat": "Jl.Raya Wangun\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78811,
+          -6.59503
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 47,
+        "nama_kepemilikan": "HOTEL PASUNDAN",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 30,
+        "alamat": "Jl.Veteran No.26 \r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81191,
+          -6.61775
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 48,
+        "nama_kepemilikan": "ASINAN  GEDUNG  DALAM",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 2,
+        "alamat": "Jl. Siliwangi II No. 14, Ciwaringi\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.829189,
+          -6.634727
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 49,
+        "nama_kepemilikan": "PT. TRIAS SUKSES DINAMIKA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl.Raya Tajur 119 \r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82914,
+          -6.63838
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 50,
+        "nama_kepemilikan": "MITRA VARIASI",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 14,
+        "alamat": "Jl.Raya Tajur 38 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83463,
+          -6.63363
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 51,
+        "nama_kepemilikan": "TERMINAL  TAS",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Jl. Raya Tajur\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80901,
+          -6.62387
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 52,
+        "nama_kepemilikan": "RUMAH MAKAN SARI",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 3,
+        "alamat": "Jl.Surya Kencana ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78528,
+          -6.59518
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 53,
+        "nama_kepemilikan": "PT. ANEKA MAJU TERUS",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl. Veteran No. 31 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79755,
+          -6.56655
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 54,
+        "nama_kepemilikan": "PT. SIGI PRIMA REKAHASIL",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 43,
+        "alamat": "Jl. Villa Bogor Indah ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.78828,
+          -6.57985
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 55,
+        "nama_kepemilikan": "AGRONESIA  SARI  PETOJO",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 33,
+        "alamat": "Jl.Pakuan ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.754118,
+          -6.5549104
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 56,
+        "nama_kepemilikan": "RS KARYA BHAKTI",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 60,
+        "alamat": "Jl.Baru Kedung Badak ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7696466,
+          -6.5834371
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 57,
+        "nama_kepemilikan": "SPBU 34. 16117 ( Gunung Batu )",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 57,
+        "alamat": "Jl. RE Abdullah No. 16 Pasir Mulya",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81093,
+          -6.60844
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 58,
+        "nama_kepemilikan": "RS. BOGOR MEDICAL CENTRE",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl.Pajajaran \r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82422,
+          -6.62972
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 59,
+        "nama_kepemilikan": "PT.RESTU MAHKOTA KARYA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl.Raya Tajur 91 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81988,
+          -6.5686
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 60,
+        "nama_kepemilikan": "CV. ARIRA PANGINDO",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 21,
+        "alamat": "Jl.Sukaraja 51 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79532,
+          -6.58759
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 61,
+        "nama_kepemilikan": "PT.ARMINDO PERKASA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 30,
+        "alamat": "Jl. Raya Sukabumi\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7958212,
+          -6.6048538
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 62,
+        "nama_kepemilikan": "BOGOR TRADE MALL",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl.Ir.H.Djuanda No.58",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80671,
+          -6.60157
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 63,
+        "nama_kepemilikan": "PT. BOGOR ANGGANA CENDIKIA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 26,
+        "alamat": "Jl. Cidangeang No.3 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.773439,
+          -6.5444509
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 64,
+        "nama_kepemilikan": "PT. PERDANA GAPURA PRIMA",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 52,
+        "alamat": "Cibadak Tanah Sareal\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8022779,
+          -6.6146268
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 65,
+        "nama_kepemilikan": "PT. GRAHA ANDRASENTRA PROPERTI",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 7,
+        "alamat": "Jl. Dreded Pahlawan Kel. Rangga Mekar\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79223,
+          -6.59902
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 66,
+        "nama_kepemilikan": "PT. SAHIRA BUTIK HOTEL",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl. Paledang no. 53 Kel. Paledang",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8168031,
+          -6.5463115
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 67,
+        "nama_kepemilikan": "PT.SMART TELECOM",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 24,
+        "alamat": "Jl. Raya cibuluh Rt 03/01 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79113,
+          -6.55921
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 68,
+        "nama_kepemilikan": "Jl.Perdana Raya Kav.IIX",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 42,
+        "alamat": "Jl.Perdana Raya Kav.IIX\r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82444,
+          -6.62803
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 69,
+        "nama_kepemilikan": "TAJUR FASHION",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 38,
+        "alamat": "Jl. Raya Tajur No.20,",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82296,
+          -6.6234
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 70,
+        "nama_kepemilikan": "PT. SUMBER KARYA INDAH (SKI)",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 39,
+        "alamat": "Jl. Raya Katulampa No. 6 ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76683,
+          -6.5819
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 71,
+        "nama_kepemilikan": "SPBU 34-16112 ( bubulak )",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 68,
+        "alamat": "Jl. Sindang Barang Bubulak \r\n",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82914,
+          -6.63838
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 72,
+        "nama_kepemilikan": "PT. PRADANITA SAKTI (PASAR TU KEMANG)",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 45,
+        "alamat": "Jl. Ry Baru Kemang Tanah Sareal",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8245523,
+          -6.5378442
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 73,
+        "nama_kepemilikan": "SPBU No.34. 16102 (Padjajaran)",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 17,
+        "alamat": "Jl. Pajajaran No.127 Bogor Utara",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7919889,
+          -6.6016227
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 74,
+        "nama_kepemilikan": "WISMA MESS",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl. Paledang No.53 Kel. Peladang Bogor Tengah",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8010803,
+          -6.5914579
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 75,
+        "nama_kepemilikan": "PT. ASTRA DIV. DAIHATSU",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 17,
+        "alamat": "Jl. Raya Padjajaran No.22 Bogor Utara",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7455688,
+          -6.5906249
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 76,
+        "nama_kepemilikan": "PT. Duta Cendana Adi Mandiri",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 40,
+        "alamat": "Jl. Raya Ciawi Km.8 Bogor Selatan",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8024306,
+          -6.5607879
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 77,
+        "nama_kepemilikan": "CV. Putra Semeru",
+        "tahun_pengawasan": "2015-10-31",
+        "kelurahan_id": 45,
+        "alamat": "JL KH Soleh Iskandar, No. 17, Kedung Jaya",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8513451,
+          -6.6108921
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 78,
+        "nama_kepemilikan": "PT. Bogor Panel Lestari",
+        "tahun_pengawasan": "2015-10-31",
+        "kelurahan_id": 17,
+        "alamat": "Jl.Pemda Km.17 Bogor Utara",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7763373,
+          -6.5564917
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 79,
+        "nama_kepemilikan": "PT.Astra Internasional Tbk/Auto 2000 Yasmin",
+        "tahun_pengawasan": "2015-10-31",
+        "kelurahan_id": 52,
+        "alamat": "JL.Sholeh Iskandar No.9 Yasmin Tanah Sareal",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8041478,
+          -6.5483732
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 80,
+        "nama_kepemilikan": "PT. Heinz ABC Indonesia",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 23,
+        "alamat": "Jl. Raya Pemda Pangkalan II, Kedunghalang",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7531803,
+          -6.5710382
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 81,
+        "nama_kepemilikan": "PT. Inti Inovako (Kolam Renang Yasmin)",
+        "tahun_pengawasan": "2015-10-31",
+        "kelurahan_id": 68,
+        "alamat": "Jl. KH. Abdullah Bin Nuh, Sindangbarang",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7893972,
+          -6.5595296
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 82,
+        "nama_kepemilikan": "RS. Islam Bogor",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 44,
+        "alamat": "Jl. Perdana raya no.22",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7718117,
+          -6.557097
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 83,
+        "nama_kepemilikan": "RS. Hermina",
+        "tahun_pengawasan": "2015-10-31",
+        "kelurahan_id": 52,
+        "alamat": "Jl. Ringroad-1 Kav.23,25,27 Perum Yasmin",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7928708,
+          -6.6026077
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 84,
+        "nama_kepemilikan": "Royal Hotel",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 32,
+        "alamat": "Jl. Ir.H.Juanda Bogor",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8140598,
+          -6.6191578
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 85,
+        "nama_kepemilikan": "PT. Faasri Utama Sakti",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 37,
+        "alamat": "Jl. Padjajaran No.17",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.772312,
+          -6.5476757
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 86,
+        "nama_kepemilikan": "Sunda Karya",
+        "tahun_pengawasan": "2015-01-01",
+        "kelurahan_id": 52,
+        "alamat": "Jl. KH Sholeh Iskandar, Cibadak",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7867945,
+          -6.591526
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 87,
+        "nama_kepemilikan": "papa ron's pizza",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Padjajaran",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807202,
+          -6.5672615
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 88,
+        "nama_kepemilikan": "Papaho Hotel",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 19,
+        "alamat": "Jl. Ks Tubun No.8 Warung Jambu",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7707693,
+          -6.5430517
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 89,
+        "nama_kepemilikan": "Carr Oke",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 42,
+        "alamat": "Jl. Kh.Sholeh Iskandar",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7629679,
+          -6.5651259
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 90,
+        "nama_kepemilikan": "SPBU 34.16113",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 62,
+        "alamat": "Jl.Brigjen H.Saptadji Hadiprawaira",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8077535,
+          -6.5662055
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 91,
+        "nama_kepemilikan": "SPBU 34.16119",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 19,
+        "alamat": "Jl.Ks. Tubun",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7944319,
+          -6.5889537
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 92,
+        "nama_kepemilikan": "Elsana Transit Hotel",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 25,
+        "alamat": "Jl. Sawo Jajar",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82914,
+          -6.63838
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 93,
+        "nama_kepemilikan": "Wahyu Tehnik",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 68,
+        "alamat": "Jl. Sindang Barang",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7825133,
+          -6.5959357
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 94,
+        "nama_kepemilikan": "PT. Daihan Cipta Prima",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 29,
+        "alamat": "Jl. Veteran No.27",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8047986,
+          -6.5762745
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 95,
+        "nama_kepemilikan": "Padjajaran Suites Hotel",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 19,
+        "alamat": "Jl. Raya Padjajaran No.17",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7612121,
+          -6.5801429
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 96,
+        "nama_kepemilikan": "SPBU 34.16110",
+        "tahun_pengawasan": "2015-10-31",
+        "kelurahan_id": 68,
+        "alamat": "Jl.Letjen Ibrahim Adjie, Kel.Sindang barang",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82914,
+          -6.63838
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 97,
+        "nama_kepemilikan": "Pt. Multimedia Nusantara",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 52,
+        "alamat": "Jl. Kh.Sholeh Iskandar ",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7694257,
+          -6.558032
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 98,
+        "nama_kepemilikan": "Giant Taman Yasmin",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 67,
+        "alamat": "Jl. Kh.Abdulloh Bin Nuh no.33 Kel.Curug Mekar",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7767963,
+          -6.5954466
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 99,
+        "nama_kepemilikan": "Favorite Jaya Motor",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 57,
+        "alamat": "Jl.Mayjen Ishak Djuarsa No.66",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8025809,
+          -6.5921866
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 100,
+        "nama_kepemilikan": "B.O.S",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 19,
+        "alamat": "Jl.Raya Pajajran No 3 A",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8086673,
+          -6.6083462
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 101,
+        "nama_kepemilikan": "PT. Mekar Karya Pratama",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl. Raya Pajajaran No.17",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7962407,
+          -6.6120695
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 102,
+        "nama_kepemilikan": "Kopi Agus",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 2,
+        "alamat": "Jl. Pahlawan No.187",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8255322,
+          -6.5899237
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 103,
+        "nama_kepemilikan": "Futsal Cimahpar",
+        "tahun_pengawasan": "2015-01-01",
+        "kelurahan_id": 22,
+        "alamat": "Jl. Tumenggung Wiradireja No.108",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7929083,
+          -6.5930717
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 104,
+        "nama_kepemilikan": "PT. Bank Tabungan Negara Persero",
+        "tahun_pengawasan": "2015-10-31",
+        "kelurahan_id": 25,
+        "alamat": "Jl. Pengadilan No.13-15",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7803066,
+          -6.5859359
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 105,
+        "nama_kepemilikan": "Hotel Semeru",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Jl. Dr. Semeru No.64-66",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82914,
+          -6.63838
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 106,
+        "nama_kepemilikan": "PT. Duta graha Sekiawan (RSB UMMI)",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 1,
+        "alamat": "Jl. Empang II No.2",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.798565,
+          -6.6113985
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 107,
+        "nama_kepemilikan": "RS Ibu dan Anak Melania",
+        "tahun_pengawasan": "2015-10-31",
+        "kelurahan_id": 2,
+        "alamat": "Jl. Pahlawan No.91",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7993805,
+          -6.5911127
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 108,
+        "nama_kepemilikan": "PT. Rawa Danau Ekowisata/Hotel Sempur Park",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 27,
+        "alamat": "Jl. Sempur No.2",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7716133,
+          -6.5642947
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 109,
+        "nama_kepemilikan": "Bengkel Khesena",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 52,
+        "alamat": "Jl. KH. Muhhamad Nuh No.1",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7751053,
+          -6.5808627
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 110,
+        "nama_kepemilikan": "BSIS Simpe and Friendly",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 53,
+        "alamat": "Jl. Dr. Semeru No.122",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7393192,
+          -6.5709462
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 111,
+        "nama_kepemilikan": "Indah Mandiri Motor",
+        "tahun_pengawasan": "2015-10-31",
+        "kelurahan_id": 60,
+        "alamat": "Jl. Raya Dramaga Km.7",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7722213,
+          -6.5902107
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 112,
+        "nama_kepemilikan": "Cahaya Gunung Batu",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 57,
+        "alamat": "Jl. Mayjen Ishak Djuarsa No.76",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82914,
+          -6.63838
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 113,
+        "nama_kepemilikan": "Warung Steak & Shake",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 42,
+        "alamat": "Jl. Ahmad yani No.112",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8112893,
+          -6.6185307
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 114,
+        "nama_kepemilikan": "Space Hotel By Papaho",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 37,
+        "alamat": "Jl.Sukasari II No.4",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8087525,
+          -6.6057979
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 115,
+        "nama_kepemilikan": "Hotel Duta",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 36,
+        "alamat": "Jl. Baranangsiang II Kav.7",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7429642,
+          -6.5726591
+        ]
+      },
+      "properties": {
+        "pemanfaatan_air_id": 116,
+        "nama_kepemilikan": "PT. Pintu Mas Garmindo",
+        "tahun_pengawasan": "2014-01-01",
+        "kelurahan_id": 47,
+        "alamat": "JL. Raya Dramaga Km.7",
+        "icon_map": "icon-perusahaan_peng",
+        "no_izin": "",
+        "debit_air": ""
+      }
+    }
+  ]
+}

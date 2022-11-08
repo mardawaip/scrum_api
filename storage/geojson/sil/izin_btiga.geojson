@@ -1,0 +1,755 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7717819,
+          -6.5575301
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 1,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "RSIA Hermina",
+        "pimpinan": "Dr. Yuni Pantjawardhani",
+        "kontak": "Mualimin",
+        "telepon": "085283683231",
+        "no_izin": "No. 658.11/860-PPL",
+        "status": "",
+        "tgl_terbitizin": "2014-09-09",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 52,
+        "alamat": "Jl. Ringroad Kav 23,25,27",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8052,
+          -6.6262825
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 2,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "RS. PMI",
+        "pimpinan": "Dr. H. Andi Wisnubaroto,Sp.BO",
+        "kontak": "Tony",
+        "telepon": "0817712642",
+        "no_izin": "No. 658.11/827-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2014-09-09",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 26,
+        "alamat": "Jl. Raya Pajajaran No. 80",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.798565,
+          -6.6262825
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 3,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "RS. Melania",
+        "pimpinan": "Dr. Petrus Sediawan A,Sp.B",
+        "kontak": "Yani Sari",
+        "telepon": 8371191,
+        "no_izin": "No. 658.11/1123 -BPLH",
+        "status": "",
+        "tgl_terbitizin": "2014-09-11",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 2,
+        "alamat": "Jl. Pahlawan No. 91",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7035473,
+          -6.5758801
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 4,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "RS. Salak",
+        "pimpinan": "dr. Agus Hari W,Sp.An, M Kes",
+        "kontak": "Marja",
+        "telepon": "082112543833",
+        "no_izin": "No. 658.31/544-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2012-05-30",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 27,
+        "alamat": "Jl. Jend Sudirman No. 08",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79677,
+          -6.57056
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 5,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "RSB. PASUTRI",
+        "pimpinan": "dr. Boyke Dian Nugraha, SpOg.,",
+        "kontak": "Heni",
+        "telepon": "081802900692",
+        "no_izin": "No. 658. 31/1273-PPL",
+        "status": "Perpanjangan",
+        "tgl_terbitizin": "2015-10-07",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 42,
+        "alamat": "Jl. Merak No.03",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7686,
+          -6.56895
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 6,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "RS. Marzoeki Mahdi",
+        "pimpinan": "Dr. Erie Dharma Irawan, Sp.Kj",
+        "kontak": "Agus",
+        "telepon": "081912100085",
+        "no_izin": "No. 658.31/454-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2013-04-14",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 53,
+        "alamat": "Jl. Dr Semeru No. 114",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7924202,
+          -6.6086799
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 7,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "RSIA. UMMI",
+        "pimpinan": "Ahmad Shabab",
+        "kontak": "Haerudin",
+        "telepon": "0251-8341600",
+        "no_izin": "No. 658.11/842",
+        "status": "",
+        "tgl_terbitizin": "2014-09-09",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 1,
+        "alamat": "Jl. Raya Empang No 2",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7372849,
+          -6.5716673
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 8,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "Rs Medika Dramaga",
+        "pimpinan": "Dr. Dewi Basmala, MARS",
+        "kontak": "Dian",
+        "telepon": "0251-8308900",
+        "no_izin": "No. 658.11/828",
+        "status": "",
+        "tgl_terbitizin": "2014-09-09",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 60,
+        "alamat": "Jl. Raya Dramaga KM 7,3",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7900226,
+          -6.5590701
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 9,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "RS. Islam",
+        "pimpinan": "dr. H. Trhadji,Sp.BS",
+        "kontak": "Hifni",
+        "telepon": "0818104577",
+        "no_izin": "No. 6571/406-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2011-04-12",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 48,
+        "alamat": "Jl. Perdana Raya KM 12",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8334903,
+          -6.6384997
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 10,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "Rs. Juliana",
+        "pimpinan": "dr. Diki Maulana Sp.A",
+        "kontak": "Surya",
+        "telepon": "0251-8339593",
+        "no_izin": "No. 503/594-PPL",
+        "status": "Baru",
+        "tgl_terbitizin": "2015-05-06",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 41,
+        "alamat": "Jl. Raya Tajur No. 75 A, Bogor Timur",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8051303,
+          -6.5754877
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 11,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "Rs. Mulia",
+        "pimpinan": "dr. Pengky Pranata",
+        "kontak": "Evi",
+        "telepon": "08129465401",
+        "no_izin": "No. 503/982-PPL",
+        "status": "Baru",
+        "tgl_terbitizin": "2015-08-07",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 17,
+        "alamat": "Jl. Raya Pajajaran No. 98 Kec. Bogor Utara",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7898094,
+          -6.5754394
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 12,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "Klinik Prodia",
+        "pimpinan": "M.M.Fatmawati",
+        "kontak": "Ami",
+        "telepon": "081388240178",
+        "no_izin": "No. 503/1094-PPL",
+        "status": "Perpanjangan",
+        "tgl_terbitizin": "2015-09-02",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 27,
+        "alamat": "Jl. Jend.Sudirman No. 38 B Kec. Bogor Tengah",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8039214,
+          -6.6262825
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 13,
+        "jenis_kegiatan": "Rumah Sakit",
+        "nama_kegiatan": "PT. Jaya Medika Sejahtera",
+        "pimpinan": "H. Muchlis Jawas",
+        "kontak": "Nurul Hikmah",
+        "telepon": "(0251) 83216",
+        "no_izin": "No. 658.31/547-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2012-05-30",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 31,
+        "alamat": "Jl. Pajajaran No. 41",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8406315,
+          -6.649192
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 14,
+        "jenis_kegiatan": "Industri",
+        "nama_kegiatan": "PT. Nutrifood",
+        "pimpinan": "Mardi",
+        "kontak": "Suselo",
+        "telepon": "0828044791",
+        "no_izin": "No. 658.11.45/11.27",
+        "status": "",
+        "tgl_terbitizin": "2014-09-11",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 40,
+        "alamat": "Jl. Raya Ciawi No. 280 A",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8178674,
+          -6.6250657
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 15,
+        "jenis_kegiatan": "Industri",
+        "nama_kegiatan": "PT. Coats Rejo",
+        "pimpinan": "Sourav seksaria",
+        "kontak": "Fahmi",
+        "telepon": "0817405839",
+        "no_izin": "No. 658.11/796-PPL",
+        "status": "",
+        "tgl_terbitizin": "2014-09-09",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 16,
+        "alamat": "Jl. Raya Tajur No. 24",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.832,
+          -6.63838
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 16,
+        "jenis_kegiatan": "Industri",
+        "nama_kegiatan": "PT. UNITEX Tbk",
+        "pimpinan": "H. Sugi Hadi Prawiro",
+        "kontak": "Ari",
+        "telepon": "0251-8311309",
+        "no_izin": "No. 658. 31/1212-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2013-10-08",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 41,
+        "alamat": "Jl.RayaTajur No. 1",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8175983,
+          -6.5536786
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 17,
+        "jenis_kegiatan": "Industri",
+        "nama_kegiatan": "PT. Citra Abadi Sejati",
+        "pimpinan": "Yasinda B",
+        "kontak": "Basroni",
+        "telepon": "0251-8653757",
+        "no_izin": "No. 658.11/808",
+        "status": "",
+        "tgl_terbitizin": "2014-09-09",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 19,
+        "alamat": "Jl. Raya Kedung Halang KM.52",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8083156,
+          -6.6262825
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 18,
+        "jenis_kegiatan": "Industri",
+        "nama_kegiatan": "PT. Sepindo Perdana",
+        "pimpinan": "Vincent A Prawira",
+        "kontak": "Joeti",
+        "telepon": 8314077,
+        "no_izin": "No. 658.11/807",
+        "status": "",
+        "tgl_terbitizin": "2014-09-09",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 3,
+        "alamat": "Jl Batu Tulis No.57 Bogor",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8078005,
+          -6.6491001
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 19,
+        "jenis_kegiatan": "Industri",
+        "nama_kegiatan": "PT. Boehringer Ingelheim",
+        "pimpinan": "Yanto Sihotang",
+        "kontak": "Biltoni",
+        "telepon": 8321065,
+        "no_izin": "No. 503/1048-PPL",
+        "status": "Perpanjangan",
+        "tgl_terbitizin": "2015-08-31",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 6,
+        "alamat": "Jl. Lw Gintung",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7985291,
+          -6.5794317
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 20,
+        "jenis_kegiatan": "Industri",
+        "nama_kegiatan": "PT. Good Year Indonesia Tbk (1)",
+        "pimpinan": "Akhrizal",
+        "kontak": "Akhrizal",
+        "telepon": "081314166827",
+        "no_izin": "No. 503/1090-PPL",
+        "status": "Perpanjangan",
+        "tgl_terbitizin": "2015-09-02",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 42,
+        "alamat": "Jl. Pemuda No.27 Kec. Tanah Sareal",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8010803,
+          -6.5794317
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 21,
+        "jenis_kegiatan": "Industri",
+        "nama_kegiatan": "PT. Guna Senaputra Sejahtera",
+        "pimpinan": "Gunawan Elisa",
+        "kontak": "Adit",
+        "telepon": "081315436360",
+        "no_izin": "No. 503/824-PPL",
+        "status": "Baru",
+        "tgl_terbitizin": "2015-06-23",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 23,
+        "alamat": "Jl. Pangkalan III Km. 2,4 Kel. Kedung Halang Kec. Bogor Utara",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8010803,
+          -6.5794317
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 22,
+        "jenis_kegiatan": "Bengkel",
+        "nama_kegiatan": "PT. Organ Jaya",
+        "pimpinan": "Noni Tanzil",
+        "kontak": "Gilbet",
+        "telepon": "085883889001",
+        "no_izin": "No. 658.31/535-PPL",
+        "status": "",
+        "tgl_terbitizin": "2012-05-29",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 13,
+        "alamat": "jl. Ashari Jaya II No. 20",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8010803,
+          -6.5794317
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 23,
+        "jenis_kegiatan": "Bengkel",
+        "nama_kegiatan": "PT. Astra Isuzu",
+        "pimpinan": "Rachmat Hidayatullah",
+        "kontak": "Agus",
+        "telepon": "08123212000",
+        "no_izin": "No. 658.31/543-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2012-05-30",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 17,
+        "alamat": "Jl. Raya Pajajaran No. 22",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8010803,
+          -6.5794317
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 24,
+        "jenis_kegiatan": "Bengkel",
+        "nama_kegiatan": "PT. Astra Daihatsu",
+        "pimpinan": "Wahyudi",
+        "kontak": "Wahyudi",
+        "telepon": "08111871203",
+        "no_izin": "No. 658.31/545-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2012-05-30",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 17,
+        "alamat": "Jl. Raya Pajajaran No. 22",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8132699,
+          -6.5794317
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 25,
+        "jenis_kegiatan": "Bengkel",
+        "nama_kegiatan": "PT. AUTO 2000",
+        "pimpinan": "Jono Suhendi Hiu",
+        "kontak": "Restu",
+        "telepon": "0817438001",
+        "no_izin": "No. 658. 31/798-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2012-07-26",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 37,
+        "alamat": "Jl. Siliwangi No. 76",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8035473,
+          -6.5758801
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 26,
+        "jenis_kegiatan": "Bengkel",
+        "nama_kegiatan": "PT. Setiajaya Mobilindo",
+        "pimpinan": "Sutomo",
+        "kontak": "Agus",
+        "telepon": "0251-8316100",
+        "no_izin": "No. 658. 31/1038-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2013-08-22",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 17,
+        "alamat": "Jl. Raya Pajajaran",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.777835,
+          -6.556477
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 27,
+        "jenis_kegiatan": "Bengkel",
+        "nama_kegiatan": "PT. Astra Daihatsu (Yasmin)",
+        "pimpinan": "Achmad Zulhaedir",
+        "kontak": "julhaidir",
+        "telepon": "081703121888",
+        "no_izin": "No.658.11.45/1125",
+        "status": "",
+        "tgl_terbitizin": "2014-09-11",
+        "masa_berlaku": "5 Th",
+        "kelurahan_id": 46,
+        "alamat": "Jl. KH. Abdulah Bin Nuh No. 16",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.810129,
+          -6.5624534
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 28,
+        "jenis_kegiatan": "Bengkel",
+        "nama_kegiatan": "PT. Cahaya Sakti Furintraco",
+        "pimpinan": "Berlin",
+        "kontak": "Berlin",
+        "telepon": "08118884934",
+        "no_izin": "No. 657.1/1092-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2011-11-14",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 19,
+        "alamat": "Jl. Kaum Sari Rt01/05",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7904112,
+          -6.6351605
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 29,
+        "jenis_kegiatan": "Laboratorium",
+        "nama_kegiatan": "Lab Seameo Biotrop",
+        "pimpinan": "dr. Irdika Mansyur",
+        "kontak": "Maman",
+        "telepon": "081310236514",
+        "no_izin": "No. 658. 31/1109-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2012-10-25",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 14,
+        "alamat": "Jl. Raya Tajur KM.6",
+        "icon_map": "icon-b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7592953,
+          -6.5662077
+        ]
+      },
+      "properties": {
+        "izin_btiga_id": 30,
+        "jenis_kegiatan": "Laboratorium",
+        "nama_kegiatan": "PT. Bogor Labs",
+        "pimpinan": "DR. Imam Soeseno",
+        "kontak": "Sari",
+        "telepon": "08111107178",
+        "no_izin": "No. 658.31/901-BPLH",
+        "status": "",
+        "tgl_terbitizin": "2013-07-11",
+        "masa_berlaku": "3 Th",
+        "kelurahan_id": 64,
+        "alamat": "Jl. KH. Abdulah Bin Nuh",
+        "icon_map": "icon-b3.png"
+      }
+    }
+  ]
+}

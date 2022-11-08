@@ -1,0 +1,6 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[699798.000000001,9272372]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"RS. AZRA","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[700218.0000000005,9274892]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. ALGA JAYA RAYA","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[701276.000000001,9275288]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"PT. BUSANA PERKASA GARMENT","LAYER":"Unknown Point Feature"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[700594.0000000005,9275934]},"properties":{"GM_LAYER":"Unknown Point Feature","GM_TYPE":"Unknown Point Feature","NAME":"CV. WANGUN MANDIRI","LAYER":""}}
+]}
