@@ -30,7 +30,7 @@ class PagesController extends Controller
 
     public function app()
     {
-        return "DLH-SIL";
+        return "<pre>APP SCRUM APLIKASI</pre>";
     }
 
     /**
