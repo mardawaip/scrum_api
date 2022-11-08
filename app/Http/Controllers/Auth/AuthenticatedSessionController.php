@@ -55,15 +55,15 @@ class AuthenticatedSessionController extends Controller
     public function apiStore(LoginRequest $request)
     {   
 
-        $mipCaptcha = MipCaptchaController::checkCaptcha($request);
-        if(!$mipCaptcha['success']){
-            return array(
-                'error' => array('captcha'=>array(
-                    'Mohon isi captcha dengan benar'
-                )),
-                'login' => 0, //error
-            );
-        }
+        // $mipCaptcha = MipCaptchaController::checkCaptcha($request);
+        // if(!$mipCaptcha['success']){
+        //     return array(
+        //         'error' => array('captcha'=>array(
+        //             'Mohon isi captcha dengan benar'
+        //         )),
+        //         'login' => 0, //error
+        //     );
+        // }
         
         $request->authenticate();
         
@@ -216,7 +216,7 @@ class AuthenticatedSessionController extends Controller
                 ->get();
 
             $menu = $this->getArrayFiltered('tingkat_menu', '1', $menu_all);
-            $submenu_ext = $this->getMenuExt();
+            // $submenu_ext = $this->getMenuExt();
 
             $i = 0;
             foreach ($menu as $key) {
@@ -232,10 +232,10 @@ class AuthenticatedSessionController extends Controller
                     foreach ($submenu as $sub) {
                         if($sub->type == 'collapse'){
                             unset($submenu[$a]->url);
-                            if($key->id == 'manajemen-konten'){
-                                $subsubmenu = $this->getMenuExt($sub->id);
-                                $submenu[$a]->children = $subsubmenu;
-                            }else{
+                            // if($key->id == 'manajemen-konten'){
+                            //     $subsubmenu = $this->getMenuExt($sub->id);
+                            //     $submenu[$a]->children = $subsubmenu;
+                            // }else{
                                 $subsubmenu = $this->getArrayFiltered_2(['tingkat_menu' => '3', 'induk_menu_id' => $sub->menu_id], $menu_all);
 
                                 $lv4=0;
@@ -251,7 +251,7 @@ class AuthenticatedSessionController extends Controller
                                 }
 
                                 $submenu[$a]->children = $subsubmenu;
-                            }
+                            // }
                         }
 
                         if(in_array($sub->status, ['new', 'dev'])){ $submenu[$a]->badge = $this->setBadge($sub->status); }
