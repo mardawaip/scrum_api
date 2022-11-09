@@ -9,6 +9,7 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Spatie\Permission\Traits\HasRoles;
 use PHPOpenSourceSaver\JWTAuth\Contracts\JWTSubject;
+// use Illuminate\Database\Eloquent\SoftDeletes;
 use ESolution\DBEncryption\Traits\EncryptedAttribute;
 
 class User extends Authenticatable implements MustVerifyEmail, JWTSubject
@@ -16,7 +17,8 @@ class User extends Authenticatable implements MustVerifyEmail, JWTSubject
     use HasFactory, Notifiable, EncryptedAttribute;
     use SpatieLogsActivity;
     use HasRoles;
-    // protected $table = 'users';
+    protected $table = 'users';
+    protected $primaryKey = 'id';
 
     /**
      * The attributes that are mass assignable.
@@ -29,6 +31,7 @@ class User extends Authenticatable implements MustVerifyEmail, JWTSubject
         'email',
         'api_token',
         'password',
+        'roles_id',
     ];
 
     /**
@@ -97,6 +100,10 @@ class User extends Authenticatable implements MustVerifyEmail, JWTSubject
     {
         return $this->hasOne(UserInfo::class);
     }
+    public function guru()
+    {
+        return $this->hasOne(Guru::class);
+    }
 
     /**
      * Get the identifier that will be stored in the subject claim of the JWT.
@@ -115,6 +122,34 @@ class User extends Authenticatable implements MustVerifyEmail, JWTSubject
      */
     public function getJWTCustomClaims()
     {
+        // $roles = ['admin','user'];
+        // return [$roles[$this->roles->name]];
+        // $data['role'] = $this->roles->name;
+        $data['role'] = $this->roles->name;
+        // return $data;
         return [];
+        // return [];
+    }
+
+    public function roles()
+    {
+        return $this->belongsTo(Roles::class);
+    }
+    // public function guru()
+    // {
+    //     return $this->belongsTo(Guru::class);
+    // }
+        /**
+     * Prepare proper error handling for url attribute
+     *
+     * @return string
+     */
+    public function getIsHasGuru()
+    {
+        if ($this->guru) {
+            return true;
+        }else{
+            return false;
+        }
     }
 }
