@@ -59,4 +59,17 @@ class ScrumController extends Controller
     {
         return Scrum::find($id);
     }
+
+    public function getAplikasiDetail(Request $request, $id)
+    {
+        $Scrum = Scrum::find($id);
+
+        $aplikasi_id = $Scrum->aplikasi_id;
+
+        $aplikasi = Aplikasi::find($aplikasi_id);
+
+        return [
+            'aplikasi' => $aplikasi
+        ];
+    }
 }

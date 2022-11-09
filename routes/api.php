@@ -75,6 +75,7 @@ Route::group(['middleware' => ['tokenaccess']], function() {
         Route::get('getScrum/{id}', [ScrumController::class, 'getScrumDetail']);
         Route::post('addScrum', [ScrumController::class, 'addScrum']);
         Route::put('updateScrum/{id}', [ScrumController::class, 'updateScrum']);
+        Route::get('getAplikasiDetail/{id}', [ScrumController::class, 'getAplikasiDetail']);
     });
 });
 
