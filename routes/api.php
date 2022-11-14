@@ -71,11 +71,16 @@ Route::group(['middleware' => ['tokenaccess']], function() {
     Route::delete('/roles_permission/{permission_id}/{role_id}', [RolesPermissionController::class, 'destroy']);
 
     Route::prefix('scrum')->group(function(){
+        Route::post('getMembers', [ScrumController::class, 'getMembers']);
         Route::post('getScrum', [ScrumController::class, 'getScrum']);
         Route::get('getScrum/{id}', [ScrumController::class, 'getScrumDetail']);
         Route::post('addScrum', [ScrumController::class, 'addScrum']);
         Route::put('updateScrum/{id}', [ScrumController::class, 'updateScrum']);
         Route::get('getAplikasiDetail/{id}', [ScrumController::class, 'getAplikasiDetail']);
+        Route::post('tasks', [ScrumController::class, 'tasks_add']);
+        Route::put('tasks/{id}', [ScrumController::class, 'tasks_update']);
+        Route::delete('tasks/{id}', [ScrumController::class, 'tasks_delete']);
+        Route::post('tasks/reorderList', [ScrumController::class, 'reorderList']);
     });
 });
 

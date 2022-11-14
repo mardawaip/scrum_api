@@ -11,7 +11,7 @@ class Scrum extends Model
     protected $table = 'scrum';
     protected $keyType = 'string';
     protected $primaryKey = 'scrum_id';
-    protected $appends = array('id', 'title', 'setting', 'deskripsi');
+    protected $appends = array('id', 'title', 'setting', 'deskripsi', 'members');
     protected $fillable = [
         'scrum_id',
         'aplikasi_id',
@@ -50,6 +50,11 @@ class Scrum extends Model
         }
 
         return '';
+    }
+
+    public function getMembersAttribute()
+    {
+        return [];
     }
 
     public function aplikasi()

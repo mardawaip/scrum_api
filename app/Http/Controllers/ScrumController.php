@@ -6,7 +6,9 @@ use Illuminate\Http\Request;
 use App\Models\Scrum;
 use App\Models\Aplikasi;
 use App\Models\ScrumSettings;
+use App\Models\TasksAplikasi;
 use Illuminate\Support\Str;
+use DB;
 
 class ScrumController extends Controller
 {
@@ -15,12 +17,17 @@ class ScrumController extends Controller
         // code...
     }
 
+    public function getMembers(Request $request)
+    {
+        return [];
+    }
+
     public function getScrum(Request $request)
     {
         return Scrum::orderBy('created_at', 'DESC')->get();
     }
 
-    public function addScrum($value='')
+    public function addScrum()
     {
         $uuid = Str::uuid();
 
@@ -67,9 +74,102 @@ class ScrumController extends Controller
         $aplikasi_id = $Scrum->aplikasi_id;
 
         $aplikasi = Aplikasi::find($aplikasi_id);
+        $tasks = TasksAplikasi::where('aplikasi_id', $aplikasi_id)->orderby('order', 'ASC')->get();
+
+        $i = 0;
+        $section = 0;
+        $math = [];
+        $true = [];
+        $prev = '';
+        foreach ($tasks as $key) {
+            if($key->type == 'section'){
+                if($prev == 'task'){
+                    $count = array_sum($math);
+                    $acc = array_sum($true);
+                    $progres = ($acc/$count)*100;
+                    $tasks[$section]->progres = $progres;
+                    $math = [];
+                    $true = [];
+                }
+
+                $section = $i;
+                $prev = 'section';
+            }else{
+                $math[] = 1;
+                if($key->completed == 'true'){
+                    $true[] = 1;
+                }
+                $prev = 'task';
+            }
+
+            $i++;
+        }
 
         return [
-            'aplikasi' => $aplikasi
+            'aplikasi' => $aplikasi,
+            'tasks' => $tasks
         ];
     }
+
+    public function tasks_add(Request $request)
+    {
+        $data = $request->all();
+
+        $last = TasksAplikasi::orderby('order', 'DESC')->where('aplikasi_id', $request->aplikasi_id)->first()->order + 1;
+
+        $uuid = Str::uuid();
+        $data['tasks_id'] = $uuid;
+        $data['order'] = $last;
+        $data['completed'] = false; //$request->completed;
+
+        if($request->multi){
+            $titles = explode("\n", $request->title);
+
+            for ($i=0; $i < count($titles); $i++) { 
+                $uuid = Str::uuid();
+
+                $datas = $data;
+                $datas['tasks_id'] = $uuid;
+                $datas['title'] = $titles[$i];
+
+                TasksAplikasi::create($datas);
+            }
+
+            return true;
+        }else{
+            return TasksAplikasi::create($data);
+        }
+    }
+
+    public function tasks_update(Request $request, $id)
+    {
+        $db = TasksAplikasi::find($id);
+        $db->title = $request->title;
+        $db->save();
+
+        return true;
+    }
+
+    public function tasks_delete(Request $request, $id)
+    {
+        $db = TasksAplikasi::where('tasks_id', $id)->delete();
+
+        return true;
+    }
+
+    public function reorderList(Request $request)
+    {
+        $datas = $request->datas;
+
+        foreach ($datas as $key) {
+            $db = DB::table('tasks_aplikasi')
+                ->where('tasks_id', $key['tasks_id'])
+                ->update([
+                    'order' => $key['order']
+                ]);
+        }
+
+        return true;
+    }
+
 }
