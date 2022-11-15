@@ -11,8 +11,10 @@ class ScrumStatus extends Model
 
     protected $table = 'scrum_status';
     protected $primaryKey = 'id';
+    protected $keyType = 'string';
     protected $fillable = [
         'id',
-        'title'
+        'title',
+        'sort'
     ];
 }

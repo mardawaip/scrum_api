@@ -68,7 +68,7 @@ class ScrumController extends Controller
     {
         $scrum = Scrum::find($id);
 
-        $status = ScrumStatus::orderBy('id', 'ASC')->get();
+        $status = ScrumStatus::orderBy('sort', 'ASC')->get();
 
         $i=0;
         foreach ($status as $key) {

@@ -12,6 +12,7 @@ class ScrumTodo extends Model
     protected $table = 'scrum_todo';
     protected $keyType = 'string';
     protected $primaryKey = 'scrum_todo_id';
+    protected $appends = array('id');
     protected $fillable = [
         'scrum_todo_id',
         'scrum_id',
@@ -22,4 +23,9 @@ class ScrumTodo extends Model
         'created_at',
         'updated_at',
     ];
+
+    public function getIdAttribute()
+    {
+        return $this->scrum_todo_id;
+    }
 }
