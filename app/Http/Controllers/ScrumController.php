@@ -7,6 +7,8 @@ use App\Models\Scrum;
 use App\Models\Aplikasi;
 use App\Models\ScrumSettings;
 use App\Models\TasksAplikasi;
+use App\Models\ScrumStatus;
+use App\Models\ScrumTodo;
 use Illuminate\Support\Str;
 use DB;
 
@@ -64,7 +66,19 @@ class ScrumController extends Controller
 
     public function getScrumDetail(Request $request, $id)
     {
-        return Scrum::find($id);
+        $scrum = Scrum::find($id);
+
+        $status = ScrumStatus::orderBy('id', 'ASC')->get();
+
+        $i=0;
+        foreach ($status as $key) {
+            $status[$i]->cards = ScrumTodo::where('scrum_status_id', $key->id)->where('scrum_id', $id)->get();
+            $i++;
+        }
+
+        $scrum['lists'] = $status;
+
+        return $scrum;
     }
 
     public function getAplikasiDetail(Request $request, $id)
@@ -120,7 +134,7 @@ class ScrumController extends Controller
         $uuid = Str::uuid();
         $data['tasks_id'] = $uuid;
         $data['order'] = $last;
-        $data['completed'] = false; //$request->completed;
+        $data['completed'] = $request->completed;
 
         if($request->multi){
             $titles = explode("\n", $request->title);
