@@ -95,25 +95,22 @@ class ScrumController extends Controller
         $math = [];
         $true = [];
         $prev = '';
+
+        $count = 0;
+        $progres = 0;
         foreach ($tasks as $key) {
             if($key->type == 'section'){
-                if($prev == 'task'){
-                    $count = array_sum($math);
-                    $acc = array_sum($true);
-                    $progres = ($acc/$count)*100;
-                    $tasks[$section]->progres = $progres;
-                    $math = [];
-                    $true = [];
-                }
+                $count = 0;
+                $progres = 0;
 
                 $section = $i;
-                $prev = 'section';
+                $tasks[$section]->progres = $progres;
+                $tasks[$section]->count = $count;
             }else{
-                $math[] = 1;
                 if($key->completed == 'true'){
-                    $true[] = 1;
+                    $tasks[$section]->progres = $tasks[$section]->progres + 1;
                 }
-                $prev = 'task';
+                $tasks[$section]->count = $tasks[$section]->count + 1;
             }
 
             $i++;
