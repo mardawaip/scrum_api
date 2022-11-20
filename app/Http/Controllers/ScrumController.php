@@ -69,6 +69,7 @@ class ScrumController extends Controller
         $scrum = Scrum::find($id);
 
         $status = ScrumStatus::orderBy('sort', 'ASC')->get();
+        $tasks = TasksAplikasi::select("tasks_id", "title")->where('aplikasi_id', $scrum->aplikasi_id)->where("type", "task")->orderby('order', 'ASC')->get();
 
         $i=0;
         foreach ($status as $key) {
@@ -77,6 +78,7 @@ class ScrumController extends Controller
         }
 
         $scrum['lists'] = $status;
+        $scrum['tasks'] = $tasks;
 
         return $scrum;
     }
@@ -107,10 +109,16 @@ class ScrumController extends Controller
                 $tasks[$section]->progres = $progres;
                 $tasks[$section]->count = $count;
             }else{
-                if($key->completed == 'true'){
+                $getScrumDetail = $this->getScrumDetailCount($key->tasks_id);
+                $true = $getScrumDetail->count != 0 ? ($getScrumDetail->count == $getScrumDetail->selesai ? true : false) : false;
+
+                if($true){
                     $tasks[$section]->progres = $tasks[$section]->progres + 1;
                 }
+
+                $tasks[$i]->completed = $getScrumDetail->proses != 0 ? "progres" : ($true ? "true" : "false");
                 $tasks[$section]->count = $tasks[$section]->count + 1;
+                $tasks[$i]->scrum = $getScrumDetail;
             }
 
             $i++;
@@ -122,11 +130,40 @@ class ScrumController extends Controller
         ];
     }
 
+    public function getScrumDetailCount($id)
+    {
+        $scrum = ScrumTodo::where('tasks_id', $id)->get();
+
+        $belum = 0;
+        $proses = 0;
+        $selesai = 0;
+
+        foreach ($scrum as $key) {
+            switch ($key->scrum_status_id) {
+                case '107c17e9-672a-4b5a-8fad-024e3ebb4392': $belum = $belum + 1; break;
+                case '439b2b7d-b95a-4558-a7c7-f24514855b80': $proses = $proses + 1; break;
+                case '0880f506-ddcc-479a-b034-e34cf0089b32': $selesai = $selesai + 1; break;
+                
+                default:
+                    // code...
+                    break;
+            }
+        }
+
+        return (object)[
+            'belum' => $belum,
+            'proses' => $proses,
+            'selesai' => $selesai,
+            'count' => count($scrum)
+        ];
+    }
+
     public function tasks_add(Request $request)
     {
         $data = $request->all();
 
-        $last = TasksAplikasi::orderby('order', 'DESC')->where('aplikasi_id', $request->aplikasi_id)->first()->order + 1;
+        $db = TasksAplikasi::where('aplikasi_id', $request->aplikasi_id)->orderby('order', 'DESC')->first();
+        $last = $db ? ($db->order + 1) : 1;
 
         $uuid = Str::uuid();
         $data['tasks_id'] = $uuid;
@@ -183,4 +220,43 @@ class ScrumController extends Controller
         return true;
     }
 
+    public function newCard(Request $request)
+    {
+        $uuid = Str::uuid();
+
+        $data = $request->newData;
+        $data['scrum_todo_id'] = $uuid;
+        $data['scrum_id'] = $request->boardId;
+        $data['scrum_status_id'] = $request->listId;
+
+        return ScrumTodo::create($data);
+    }
+
+    public function updateCard(Request $request)
+    {
+        $id = $request->scrum_todo_id;
+
+        $todo = ScrumTodo::find($id);
+        $todo->title = $request->title;
+        $todo->tasks_id = $request->tasks_id;
+        $todo->save();
+
+        return true;
+    }
+
+    public function reorderListCard(Request $request)
+    {
+        
+    }
+
+    public function reorderCard(Request $request)
+    {
+        $id = $request->draggableId;
+
+        $todo = ScrumTodo::find($id);
+        $todo->scrum_status_id = $request->destination['droppableId'];
+        $todo->save();
+
+        return true;
+    }
 }

@@ -81,6 +81,10 @@ Route::group(['middleware' => ['tokenaccess']], function() {
         Route::put('tasks/{id}', [ScrumController::class, 'tasks_update']);
         Route::delete('tasks/{id}', [ScrumController::class, 'tasks_delete']);
         Route::post('tasks/reorderList', [ScrumController::class, 'reorderList']);
+        Route::post('newCard', [ScrumController::class, 'newCard']);
+        Route::post('updateCard', [ScrumController::class, 'updateCard']);
+        Route::post('reorderCard', [ScrumController::class, 'reorderCard']);
+        Route::post('reorderListCard', [ScrumController::class, 'reorderListCard']);
     });
 });
 
