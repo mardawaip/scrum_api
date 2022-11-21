@@ -1,0 +1,44 @@
+# This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Node.js CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: deploy use ssh
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        key:  ${{ secrets.PRIVATE_KEY }}
+        username: ${{ secrets.username }}
+        port: 22
+        script: |
+          cd /usr/share/nginx/www/arif/scrum_api
+          git pull 
+          git status
+          
+    - name: send notif telegram
+      uses: appleboy/telegram-action@master
+      with:
+        to: ${{ secrets.TELEGRAM_TO }}
+        token: ${{ secrets.TELEGRAM_TOKEN }}
+        message: |
+          The ${{ github.event_name }}.
+          ${{ github.event.head_commit.message }}
+          telah berhasil build diserver.
+          <a href='https://apippdb.mardawa.id/'>https://apippdb.mardawa.id/</a>
