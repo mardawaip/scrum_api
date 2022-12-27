@@ -42,7 +42,7 @@ Route::post('/register', [RegisteredUserController::class, 'apiStore']);
 Route::post('/login', [AuthenticatedSessionController::class, 'apiStore']);
 Route::post('/forgot_password', [PasswordResetLinkController::class, 'apiStore']);
 Route::post('/verify_token', [AuthenticatedSessionController::class, 'apiVerifyToken']);
-Route::get('/users', [SampleDataController::class, 'getUsers']);
+// Route::get('/users', [SampleDataController::class, 'getUsers']);
 
 // MENU
 Route::get('/menu', [MenuController::class, 'index']);
@@ -50,7 +50,6 @@ Route::get('/user_info', [UserInfoController::class, 'index']);
 Route::get('/roles', [RolesController::class, 'index']);
 Route::get('/roles_menu', [RolesMenuController::class, 'index']);
 Route::get('/permission', [PermissionController::class, 'index']);
-Route::get('/users', [UsersController::class, 'index']);
 Route::get('/countries', [UsersController::class, 'countries']);
 
 Route::get('captcha/{captcha_token}.jpg', [MipCaptchaController::class, 'getCaptchaImage']);
@@ -60,6 +59,7 @@ Route::post('getCaptcha', [MipCaptchaController::class, 'getCaptcha']);
 Route::post('getCaptcha', [MipCaptchaController::class, 'getCaptcha']);
 
 Route::group(['middleware' => ['tokenaccess']], function() {
+    Route::get('/users', [UsersController::class, 'index']);
     Route::post('/users', [UsersController::class, 'store']);
     Route::post('/users/{id}', [UsersController::class, 'getPer']);
     Route::put('/users/{id}', [UsersController::class, 'update']);

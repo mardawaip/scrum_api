@@ -69,7 +69,7 @@ class ScrumController extends Controller
         $scrum = Scrum::find($id);
 
         $status = ScrumStatus::orderBy('sort', 'ASC')->get();
-        $tasks = TasksAplikasi::select("tasks_id", "title")->where('aplikasi_id', $scrum->aplikasi_id)->where("type", "task")->orderby('order', 'ASC')->get();
+        $tasks = TasksAplikasi::select("tasks_id", "title", "type")->where('aplikasi_id', $scrum->aplikasi_id)->orderby('order', 'ASC')->get();
 
         $i=0;
         foreach ($status as $key) {
@@ -142,7 +142,9 @@ class ScrumController extends Controller
             switch ($key->scrum_status_id) {
                 case '107c17e9-672a-4b5a-8fad-024e3ebb4392': $belum = $belum + 1; break;
                 case '439b2b7d-b95a-4558-a7c7-f24514855b80': $proses = $proses + 1; break;
+                case 'a0eadc41-7cb9-4601-b4ea-0fd5f4db88f3': $proses = $proses + 1; break;
                 case '0880f506-ddcc-479a-b034-e34cf0089b32': $selesai = $selesai + 1; break;
+                case '55a0d830-f4f6-4c40-a193-094640310cb4': $selesai = $selesai + 1; break;
                 
                 default:
                     // code...
@@ -238,6 +240,7 @@ class ScrumController extends Controller
 
         $todo = ScrumTodo::find($id);
         $todo->title = $request->title;
+        $todo->description = $request->description;
         $todo->tasks_id = $request->tasks_id;
         $todo->save();
 

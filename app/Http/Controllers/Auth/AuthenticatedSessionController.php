@@ -76,6 +76,12 @@ class AuthenticatedSessionController extends Controller
         }
 
         $user = User::where('email', $request->email)->first();
+
+        if(!$user->email_verified_at){
+            throw ValidationException::withMessages([
+                'email' => ['Email belum di approve oleh admin']
+            ]);
+        }
         // $request->visitor()->visit();
         // return $user->visitLogs()->count();
         // $response = array('user'=>$user,'token'=>$token);
