@@ -9,7 +9,7 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Spatie\Permission\Traits\HasRoles;
 use PHPOpenSourceSaver\JWTAuth\Contracts\JWTSubject;
-// use Illuminate\Database\Eloquent\SoftDeletes;
+use Illuminate\Database\Eloquent\SoftDeletes;
 use ESolution\DBEncryption\Traits\EncryptedAttribute;
 
 class User extends Authenticatable implements MustVerifyEmail, JWTSubject
@@ -17,6 +17,8 @@ class User extends Authenticatable implements MustVerifyEmail, JWTSubject
     use HasFactory, Notifiable, EncryptedAttribute;
     use SpatieLogsActivity;
     use HasRoles;
+    use SoftDeletes;
+
     protected $table = 'users';
     protected $primaryKey = 'id';
 
@@ -30,6 +32,7 @@ class User extends Authenticatable implements MustVerifyEmail, JWTSubject
         'last_name',
         'email',
         'api_token',
+        'email_verified_at',
         'password',
         'roles_id',
     ];

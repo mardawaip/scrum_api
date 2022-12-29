@@ -63,7 +63,7 @@ Route::group(['middleware' => ['tokenaccess']], function() {
     Route::post('/users', [UsersController::class, 'store']);
     Route::post('/users/{id}', [UsersController::class, 'getPer']);
     Route::put('/users/{id}', [UsersController::class, 'update']);
-    Route::delete('/users/destroy/{id}', [UsersController::class, 'destroy']);
+    Route::delete('/users/{id}', [UsersController::class, 'destroy']);
     Route::post('upload', [KontenController::class, 'upload']);
     
     Route::get('/roles_permission', [RolesPermissionController::class, 'index']);

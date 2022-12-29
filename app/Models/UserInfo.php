@@ -5,10 +5,12 @@ namespace App\Models;
 use App\Core\Traits\SpatieLogsActivity;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Storage;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class UserInfo extends Model
 {
     use SpatieLogsActivity;
+    use SoftDeletes;
 
     protected $primaryKey = 'id';
     protected $table = 'user_infos';
@@ -24,7 +26,10 @@ class UserInfo extends Model
         'timezone',
         'currency',
         'communication',
-        'marketing'
+        'marketing',
+        'created_at',
+        'updated_at',
+        'deleted_at',
     ];
 
     /**

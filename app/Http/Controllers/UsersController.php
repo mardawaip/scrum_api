@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\User;
+use App\Models\UserInfo;
 use Illuminate\Http\Request;
 use Illuminate\Auth\Events\Registered;
 use Illuminate\Support\Facades\Auth;
@@ -84,6 +85,12 @@ class UsersController extends Controller
             'password'   => Hash::make($request->password),
         ]);
 
+        // $data = [];
+        // $data['user_id'] = $user->id;
+        // $data['id'] = $user->id;
+
+        // $userinfo = UserInfo::create($request->all());
+
         return $user;
     }
 
@@ -131,8 +138,29 @@ class UsersController extends Controller
     public function update(Request $request, $id)
     {
         $user = User::find($id);
-        $user->update($request->all());
-        return $user;
+
+        if($request->first_name){
+            $user->first_name = $request->first_name;
+        }
+        if($request->last_name){
+            $user->last_name = $request->last_name;
+        }
+        if($request->email_verified_at){
+            $user->email_verified_at = $request->email_verified_at;
+        }
+        if($request->api_token){
+            $user->api_token = $request->api_token;
+        }
+        if($request->is_admin){
+            $user->is_admin = $request->is_admin;
+        }
+        if($request->roles_id){
+            $user->roles_id = $request->roles_id;
+        }
+
+        $update = $user->save();
+
+        return $update ? $user : 0;
     }
 
     /**
@@ -144,8 +172,11 @@ class UsersController extends Controller
      */
     public function destroy($id)
     {
-        $userinfo = DB::table('user_infos')->where('user_id', $id)->delete();
-        $user = DB::table('users')->where('id', $id)->delete();
+        $user = User::find($id);
+        $user->delete();
+
+        // $userinfo = UserInfo::find($id);
+        // $userinfo->delete();
 
         if($user){
             return ['msg' => 'success'];
