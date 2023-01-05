@@ -30,6 +30,9 @@ class UserInfo extends Model
         'created_at',
         'updated_at',
         'deleted_at',
+        'gender',
+        'birthday',
+        'locations',
     ];
 
     /**

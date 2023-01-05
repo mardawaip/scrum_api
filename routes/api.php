@@ -14,6 +14,7 @@ use App\Http\Controllers\RolesMenuController;
 use App\Http\Controllers\UserInfoController;
 use App\Http\Controllers\UsersController;
 use App\Http\Controllers\RolesController;
+use App\Http\Controllers\ProfilController;
 use Illuminate\Support\Facades\Route;
 use App\Models\ActivityLog;
 use App\Models\Menu;
@@ -86,6 +87,11 @@ Route::group(['middleware' => ['tokenaccess']], function() {
         Route::post('reorderCard', [ScrumController::class, 'reorderCard']);
         Route::post('reorderListCard', [ScrumController::class, 'reorderListCard']);
     });
+
+    Route::prefix('profil')->group(function(){
+        Route::get('get_profil', [ProfilController::class, 'index']);
+    });
+
 });
 
 Route::group(['middleware' => ['tokenaccess']], function () {
