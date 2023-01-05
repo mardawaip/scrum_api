@@ -2,10 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-use Illuminate\Support\Facades\Auth;
+use DB;
 use App\Models\User;
 use App\Models\UserInfo;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class ProfilController extends Controller
 {
@@ -25,6 +26,14 @@ class ProfilController extends Controller
             'user' => $user ? $user : [],
             'user_info' => $userInfo ? $userInfo : []
         ];
+    }
+
+    public function get_log(Request $request)
+    {
+        $userAuth = Auth::user();
+        $log = DB::table('activity_log')->where('subject_id',$userAuth->id)->orderby('created_at', 'DESC')->limit(10)->get();
+
+        return $log;
     }
 
     /**

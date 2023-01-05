@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use App\Models\User;
+use App\Models\Aplikasi;
+use App\Models\TasksAplikasi;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
 use DB;
@@ -31,6 +33,54 @@ class PagesController extends Controller
     public function app()
     {
         return "<pre>APP SCRUM APLIKASI</pre>";
+    }
+
+    public function widgets(Request $request)
+    {
+        $users = User::count();
+        $aplikasi = Aplikasi::count();
+        $task = TasksAplikasi::where('type', 'task')->count();
+
+        $return = [
+            "overdue" => [
+                "title" => "Tasks",
+                "data" => [
+                    "name" => "Tasks",
+                    "count" => $task,
+                    "extra" => [
+                    "name" => "Data baru hari ini",
+                    "count" => 0
+                    ]
+                ],
+                "detail" => "You can show some detailed information about this widget in here."
+            ],
+            "issues" => [
+                "title" => "Aplikasi",
+                "data" => [
+                    "name" => "Aplikasi",
+                    "count" => $aplikasi,
+                    "extra" => [
+                    "name" => "Data baru hari ini",
+                    "count" => 0
+                    ]
+                ],
+                "detail" => "You can show some detailed information about this widget in here."
+            ],
+            "features" => [
+                "title" => "Pengguna",
+                "data" => [
+                    "name" => "Pengguna",
+                    "count" => $users,
+                    "extra" => [
+                    "name" => "Data baru hari ini",
+                    "count" => 0
+                    ]
+                ],
+                "detail" => "You can show some detailed information about this widget in here."
+            ],
+        ];
+
+        return $return;
     }
 
     /**

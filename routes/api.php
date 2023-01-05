@@ -15,6 +15,7 @@ use App\Http\Controllers\UserInfoController;
 use App\Http\Controllers\UsersController;
 use App\Http\Controllers\RolesController;
 use App\Http\Controllers\ProfilController;
+use App\Http\Controllers\PagesController;
 use Illuminate\Support\Facades\Route;
 use App\Models\ActivityLog;
 use App\Models\Menu;
@@ -71,6 +72,10 @@ Route::group(['middleware' => ['tokenaccess']], function() {
     Route::post('/roles_permission', [RolesPermissionController::class, 'store']);
     Route::delete('/roles_permission/{permission_id}/{role_id}', [RolesPermissionController::class, 'destroy']);
 
+    Route::prefix('dashboards')->group(function(){
+        Route::get('widgets', [PagesController::class, 'widgets']);
+    });
+
     Route::prefix('scrum')->group(function(){
         Route::post('getMembers', [ScrumController::class, 'getMembers']);
         Route::post('getScrum', [ScrumController::class, 'getScrum']);
@@ -90,6 +95,7 @@ Route::group(['middleware' => ['tokenaccess']], function() {
 
     Route::prefix('profil')->group(function(){
         Route::get('get_profil', [ProfilController::class, 'index']);
+        Route::get('get_log', [ProfilController::class, 'get_log']);
     });
 
 });
